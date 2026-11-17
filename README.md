@@ -7,6 +7,10 @@
 An RWA issuer spread radar built on the CoinMarketCap Pro API v5 Real-World-Asset endpoints.</p>
 
 <p align="center">
+  🎥 <a href="https://youtu.be/WVRfNKGDobg"><b>Watch the 2-minute demo</b></a>
+</p>
+
+<p align="center">
   Track: <b>Real World Assets</b> · Build with CMC: API Hackathon Round 2 · <code>#BuildwithCMC</code>
 </p>
 

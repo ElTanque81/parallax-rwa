@@ -4,7 +4,7 @@
 **Tagline:** One asset. Many tokens. See the spread.
 **Track:** Real World Assets
 **Repo:** https://github.com/ElTanque81/parallax-rwa
-**Demo video:** _(add link)_
+**Demo video:** https://youtu.be/WVRfNKGDobg
 **X post:** _(add link)_
 
 ---
@@ -64,7 +64,7 @@ Node.js (zero dependencies), vanilla JS front end with hand-rolled SVG charts, 1
 >
 > I built Parallax on the CMC RWA API: it cleans the feed, shows where the twins disagree, which token to hold and which issuers track best.
 >
-> 🎥 [demo video link]
+> 🎥 https://youtu.be/WVRfNKGDobg
 > 🔗 [DoraHacks BUIDL link]
 >
 > #BuildwithCMC
