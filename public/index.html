@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Parallax · RWA issuer spread radar</title>
+  <meta name="description" content="One asset, many tokens. Parallax compares every issuer's tokenized version of the same real-world asset using the CoinMarketCap RWA API.">
+  <link rel="icon" href="/logo.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="#/radar">
+      <img src="/logo.svg" alt="" width="34" height="34">
+      <span class="word">Parallax</span>
+      <span class="tag" data-i18n="tagline">One asset. Many tokens. See the spread.</span>
+    </a>
+    <nav>
+      <a href="#/radar" data-nav="radar" data-i18n="nav_radar">Radar</a>
+      <a href="#/issuers" data-nav="issuers" data-i18n="nav_issuers">Issuers</a>
+      <a href="#/inspector" data-nav="inspector" data-i18n="nav_inspector">API Inspector</a>
+      <a href="#/method" data-nav="method" data-i18n="nav_method">Method</a>
+    </nav>
+    <div class="right">
+      <span id="mode" class="mode">…</span>
+      <div class="lang" role="group" aria-label="Language">
+        <button data-lang="en">EN</button><button data-lang="de">DE</button>
+      </div>
+    </div>
+  </header>
+  <main id="view" aria-live="polite"></main>
+  <footer>
+    <span data-i18n="footer">Data: CoinMarketCap Pro API v5 Real-World Assets. Not financial advice.</span>
+    <span>#BuildwithCMC</span>
+  </footer>
+  <div id="tip" class="tip" hidden></div>
+  <script src="/app.js"></script>
+</body>
+</html>

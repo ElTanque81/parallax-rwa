@@ -1,0 +1,211 @@
+{
+ "data": {
+  "rwa_id": 8,
+  "name": "Coinbase Global",
+  "symbol": "COIN",
+  "num_market_pairs": 5,
+  "market_pairs": [
+   {
+    "exchange": {
+     "exchange_id": 24,
+     "name": "Kraken",
+     "slug": "kraken"
+    },
+    "market_id": 990800,
+    "market_pair": "COINX/USDT",
+    "category": "spot",
+    "fee_type": "percentage",
+    "market_pair_base": {
+     "crypto_id": 37020,
+     "symbol": "COINX",
+     "exchange_symbol": "COINX",
+     "currency_type": "cryptocurrency"
+    },
+    "market_pair_quotes": {
+     "crypto_id": 825,
+     "symbol": "USDT",
+     "exchange_symbol": "USDT",
+     "currency_type": "cryptocurrency"
+    },
+    "exchange_reported_quotes": {
+     "price": 329.0996974778259,
+     "volume_24h_base": 12032.827834084586,
+     "volume_24h_quote": 3960000.0000000005,
+     "last_updated": "2026-11-17T07:05:47.598Z"
+    },
+    "quotes": [
+     {
+      "crypto_id": 2781,
+      "symbol": "USD",
+      "price": 329.0996974778259,
+      "volume_24h": 3960000.0000000005,
+      "last_updated": "2026-11-17T07:05:47.598Z"
+     }
+    ]
+   },
+   {
+    "exchange": {
+     "exchange_id": 521,
+     "name": "Bybit",
+     "slug": "bybit"
+    },
+    "market_id": 990801,
+    "market_pair": "COINX/USDT",
+    "category": "spot",
+    "fee_type": "percentage",
+    "market_pair_base": {
+     "crypto_id": 37020,
+     "symbol": "COINX",
+     "exchange_symbol": "COINX",
+     "currency_type": "cryptocurrency"
+    },
+    "market_pair_quotes": {
+     "crypto_id": 825,
+     "symbol": "USDT",
+     "exchange_symbol": "USDT",
+     "currency_type": "cryptocurrency"
+    },
+    "exchange_reported_quotes": {
+     "price": 329.08700971365676,
+     "volume_24h_base": 9845.42052516497,
+     "volume_24h_quote": 3240000,
+     "last_updated": "2026-11-17T07:05:47.598Z"
+    },
+    "quotes": [
+     {
+      "crypto_id": 2781,
+      "symbol": "USD",
+      "price": 329.08700971365676,
+      "volume_24h": 3240000,
+      "last_updated": "2026-11-17T07:05:47.598Z"
+     }
+    ]
+   },
+   {
+    "exchange": {
+     "exchange_id": 513,
+     "name": "Bitget",
+     "slug": "bitget"
+    },
+    "market_id": 990802,
+    "market_pair": "COINon/USDT",
+    "category": "spot",
+    "fee_type": "percentage",
+    "market_pair_base": {
+     "crypto_id": 37021,
+     "symbol": "COINon",
+     "exchange_symbol": "COINon",
+     "currency_type": "cryptocurrency"
+    },
+    "market_pair_quotes": {
+     "crypto_id": 825,
+     "symbol": "USDT",
+     "exchange_symbol": "USDT",
+     "currency_type": "cryptocurrency"
+    },
+    "exchange_reported_quotes": {
+     "price": 329.828657306112,
+     "volume_24h_base": 2334.545476699945,
+     "volume_24h_quote": 770000.0000000001,
+     "last_updated": "2026-11-17T07:05:47.598Z"
+    },
+    "quotes": [
+     {
+      "crypto_id": 2781,
+      "symbol": "USD",
+      "price": 329.828657306112,
+      "volume_24h": 770000.0000000001,
+      "last_updated": "2026-11-17T07:05:47.598Z"
+     }
+    ]
+   },
+   {
+    "exchange": {
+     "exchange_id": 302,
+     "name": "Gate",
+     "slug": "gate"
+    },
+    "market_id": 990803,
+    "market_pair": "COINon/USDT",
+    "category": "spot",
+    "fee_type": "percentage",
+    "market_pair_base": {
+     "crypto_id": 37021,
+     "symbol": "COINon",
+     "exchange_symbol": "COINon",
+     "currency_type": "cryptocurrency"
+    },
+    "market_pair_quotes": {
+     "crypto_id": 825,
+     "symbol": "USDT",
+     "exchange_symbol": "USDT",
+     "currency_type": "cryptocurrency"
+    },
+    "exchange_reported_quotes": {
+     "price": 329.8625989042046,
+     "volume_24h_base": 1909.886122563893,
+     "volume_24h_quote": 630000,
+     "last_updated": "2026-11-17T07:05:47.598Z"
+    },
+    "quotes": [
+     {
+      "crypto_id": 2781,
+      "symbol": "USD",
+      "price": 329.8625989042046,
+      "volume_24h": 630000,
+      "last_updated": "2026-11-17T07:05:47.598Z"
+     }
+    ]
+   },
+   {
+    "exchange": {
+     "exchange_id": 544,
+     "name": "MEXC",
+     "slug": "mexc"
+    },
+    "market_id": 990804,
+    "market_pair": "COINd/USDT",
+    "category": "spot",
+    "fee_type": "percentage",
+    "market_pair_base": {
+     "crypto_id": 37022,
+     "symbol": "COINd",
+     "exchange_symbol": "COINd",
+     "currency_type": "cryptocurrency"
+    },
+    "market_pair_quotes": {
+     "crypto_id": 825,
+     "symbol": "USDT",
+     "exchange_symbol": "USDT",
+     "currency_type": "cryptocurrency"
+    },
+    "exchange_reported_quotes": {
+     "price": 333.66009111874786,
+     "volume_24h_base": 42.857987456793886,
+     "volume_24h_quote": 14300.000000000002,
+     "last_updated": "2026-11-17T07:05:47.598Z"
+    },
+    "quotes": [
+     {
+      "crypto_id": 2781,
+      "symbol": "USD",
+      "price": 333.66009111874786,
+      "volume_24h": 14300.000000000002,
+      "last_updated": "2026-11-17T07:05:47.598Z"
+     }
+    ]
+   }
+  ],
+  "total_size": 5,
+  "has_more": false
+ },
+ "status": {
+  "timestamp": "2026-11-17T07:05:47.598Z",
+  "error_code": 0,
+  "error_message": "",
+  "elapsed": 12,
+  "credit_count": 1,
+  "notice": "DEMO FIXTURE - synthetic data",
+  "total_count": 24
+ }
+}

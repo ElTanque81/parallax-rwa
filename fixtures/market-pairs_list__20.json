@@ -1,0 +1,97 @@
+{
+ "data": {
+  "rwa_id": 20,
+  "name": "Silver",
+  "symbol": "SILVER",
+  "num_market_pairs": 2,
+  "market_pairs": [
+   {
+    "exchange": {
+     "exchange_id": 544,
+     "name": "MEXC",
+     "slug": "mexc"
+    },
+    "market_id": 992000,
+    "market_pair": "KAG/USDT",
+    "category": "spot",
+    "fee_type": "percentage",
+    "market_pair_base": {
+     "crypto_id": 37058,
+     "symbol": "KAG",
+     "exchange_symbol": "KAG",
+     "currency_type": "cryptocurrency"
+    },
+    "market_pair_quotes": {
+     "crypto_id": 825,
+     "symbol": "USDT",
+     "exchange_symbol": "USDT",
+     "currency_type": "cryptocurrency"
+    },
+    "exchange_reported_quotes": {
+     "price": 51.19482409506517,
+     "volume_24h_base": 4727.040365460053,
+     "volume_24h_quote": 242000.00000000003,
+     "last_updated": "2026-11-17T07:05:47.598Z"
+    },
+    "quotes": [
+     {
+      "crypto_id": 2781,
+      "symbol": "USD",
+      "price": 51.19482409506517,
+      "volume_24h": 242000.00000000003,
+      "last_updated": "2026-11-17T07:05:47.598Z"
+     }
+    ]
+   },
+   {
+    "exchange": {
+     "exchange_id": 1348,
+     "name": "Uniswap v3",
+     "slug": "uniswap-v3"
+    },
+    "market_id": 992001,
+    "market_pair": "KAG/USDC",
+    "category": "spot",
+    "fee_type": "percentage",
+    "market_pair_base": {
+     "crypto_id": 37058,
+     "symbol": "KAG",
+     "exchange_symbol": "KAG",
+     "currency_type": "cryptocurrency"
+    },
+    "market_pair_quotes": {
+     "crypto_id": 3408,
+     "symbol": "USDC",
+     "exchange_symbol": "USDC",
+     "currency_type": "cryptocurrency"
+    },
+    "exchange_reported_quotes": {
+     "price": 51.18455730231568,
+     "volume_24h_base": 3868.354254400128,
+     "volume_24h_quote": 198000,
+     "last_updated": "2026-11-17T07:05:47.598Z"
+    },
+    "quotes": [
+     {
+      "crypto_id": 2781,
+      "symbol": "USD",
+      "price": 51.18455730231568,
+      "volume_24h": 198000,
+      "last_updated": "2026-11-17T07:05:47.598Z"
+     }
+    ]
+   }
+  ],
+  "total_size": 2,
+  "has_more": false
+ },
+ "status": {
+  "timestamp": "2026-11-17T07:05:47.598Z",
+  "error_code": 0,
+  "error_message": "",
+  "elapsed": 12,
+  "credit_count": 1,
+  "notice": "DEMO FIXTURE - synthetic data",
+  "total_count": 24
+ }
+}

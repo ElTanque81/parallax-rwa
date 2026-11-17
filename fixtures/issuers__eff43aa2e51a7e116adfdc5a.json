@@ -1,0 +1,130 @@
+{
+ "data": {
+  "name": "Backed Assets",
+  "website": "https://assets.backed.fi/",
+  "logo": null,
+  "tokens": [
+   {
+    "name": "NVIDIA tokenized stock (xStock)",
+    "symbol": "NVDAX",
+    "crypto_id": 36995,
+    "rwa_id": 2
+   },
+   {
+    "name": "Tesla tokenized stock (xStock)",
+    "symbol": "TSLAX",
+    "crypto_id": 37000,
+    "rwa_id": 3
+   },
+   {
+    "name": "Strategy tokenized stock (xStock)",
+    "symbol": "MSTRX",
+    "crypto_id": 37005,
+    "rwa_id": 4
+   },
+   {
+    "name": "SP500 tokenized stock (xStock)",
+    "symbol": "SPYX",
+    "crypto_id": 37008,
+    "rwa_id": 5
+   },
+   {
+    "name": "Nasdaq tokenized stock (xStock)",
+    "symbol": "QQQX",
+    "crypto_id": 37012,
+    "rwa_id": 6
+   },
+   {
+    "name": "Apple tokenized stock (xStock)",
+    "symbol": "AAPLX",
+    "crypto_id": 37016,
+    "rwa_id": 7
+   },
+   {
+    "name": "Coinbase tokenized stock (xStock)",
+    "symbol": "COINX",
+    "crypto_id": 37020,
+    "rwa_id": 8
+   },
+   {
+    "name": "Circle tokenized stock (xStock)",
+    "symbol": "CRCLX",
+    "crypto_id": 37024,
+    "rwa_id": 9
+   },
+   {
+    "name": "Microsoft tokenized stock (xStock)",
+    "symbol": "MSFTX",
+    "crypto_id": 37027,
+    "rwa_id": 10
+   },
+   {
+    "name": "Amazon tokenized stock (xStock)",
+    "symbol": "AMZNX",
+    "crypto_id": 37030,
+    "rwa_id": 11
+   },
+   {
+    "name": "Alphabet tokenized stock (xStock)",
+    "symbol": "GOOGLX",
+    "crypto_id": 37034,
+    "rwa_id": 12
+   },
+   {
+    "name": "Meta tokenized stock (xStock)",
+    "symbol": "METAX",
+    "crypto_id": 37037,
+    "rwa_id": 13
+   },
+   {
+    "name": "Palantir tokenized stock (xStock)",
+    "symbol": "PLTRX",
+    "crypto_id": 37040,
+    "rwa_id": 14
+   },
+   {
+    "name": "Robinhood tokenized stock (xStock)",
+    "symbol": "HOODX",
+    "crypto_id": 37043,
+    "rwa_id": 15
+   },
+   {
+    "name": "Gold ETF tokenized stock (xStock)",
+    "symbol": "GLDX",
+    "crypto_id": 37046,
+    "rwa_id": 16
+   },
+   {
+    "name": "Treasury Bond ETF tokenized stock (xStock)",
+    "symbol": "TLTX",
+    "crypto_id": 37049,
+    "rwa_id": 17
+   },
+   {
+    "name": "AMD tokenized stock (xStock)",
+    "symbol": "AMDX",
+    "crypto_id": 37052,
+    "rwa_id": 18
+   },
+   {
+    "name": "Broadcom tokenized stock (xStock)",
+    "symbol": "AVGOX",
+    "crypto_id": 37055,
+    "rwa_id": 19
+   }
+  ],
+  "issuer_id": "eff43aa2e51a7e116adfdc5a",
+  "num_tokens": 18,
+  "total_size": 18,
+  "has_more": false
+ },
+ "status": {
+  "timestamp": "2026-11-17T07:05:47.598Z",
+  "error_code": 0,
+  "error_message": "",
+  "elapsed": 12,
+  "credit_count": 1,
+  "notice": "DEMO FIXTURE - synthetic data",
+  "total_count": 24
+ }
+}

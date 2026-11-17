@@ -1,0 +1,28 @@
+{
+ "data": {
+  "name": "Comtech Gold",
+  "website": "https://comtechgold.com",
+  "logo": null,
+  "tokens": [
+   {
+    "name": "Comtech Gold",
+    "symbol": "CGO",
+    "crypto_id": 36994,
+    "rwa_id": 1
+   }
+  ],
+  "issuer_id": "4c2c6c25d06e1df84a955345",
+  "num_tokens": 1,
+  "total_size": 1,
+  "has_more": false
+ },
+ "status": {
+  "timestamp": "2026-11-16T22:31:48.794Z",
+  "error_code": 0,
+  "error_message": "",
+  "elapsed": 12,
+  "credit_count": 1,
+  "notice": "DEMO FIXTURE - synthetic data",
+  "total_count": 24
+ }
+}

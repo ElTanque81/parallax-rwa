@@ -1,0 +1,44 @@
+{
+  "requested_at": "2026-11-17T08:46:48.315Z",
+  "request": {
+    "endpoint": "/v5/real-world-assets/issuers",
+    "params": {
+      "issuer_id": "6878977dcbbf471de3366e85"
+    }
+  },
+  "status": {
+    "timestamp": "2026-11-17T08:46:48.252Z",
+    "error_code": "0",
+    "error_message": "",
+    "elapsed": 3,
+    "credit_count": 1
+  },
+  "data_sample": {
+    "name": "Backed Assets",
+    "website": "https://assets.backed.fi/",
+    "tokens": [
+      {
+        "name": "Coinbase tokenized stock (xStock)",
+        "symbol": "COINX",
+        "crypto_id": 36989,
+        "rwa_id": 82
+      },
+      {
+        "name": "NVIDIA tokenized stock (xStock)",
+        "symbol": "NVDAX",
+        "crypto_id": 36992,
+        "rwa_id": 2
+      },
+      {
+        "name": "Apple tokenized stock (xStock)",
+        "symbol": "AAPLX",
+        "crypto_id": 36994,
+        "rwa_id": 3
+      }
+    ],
+    "issuer_id": "6878977dcbbf471de3366e85",
+    "num_tokens": 1210,
+    "total_size": 1210,
+    "has_more": true
+  }
+}

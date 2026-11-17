@@ -1,0 +1,43 @@
+{
+  "requested_at": "2026-11-17T08:46:48.181Z",
+  "request": {
+    "endpoint": "/v5/real-world-assets/issuers/list",
+    "params": {
+      "limit": 50
+    }
+  },
+  "status": {
+    "timestamp": "2026-11-17T08:46:48.121Z",
+    "error_code": "0",
+    "error_message": "",
+    "elapsed": 3,
+    "credit_count": 1
+  },
+  "data_sample": {
+    "issuers": [
+      {
+        "name": "Backed Assets",
+        "website": "https://assets.backed.fi/",
+        "logo": null,
+        "issuer_id": "6878977dcbbf471de3366e85",
+        "num_tokens": 1210
+      },
+      {
+        "name": "Backpack",
+        "website": "https://backpack.exchange",
+        "logo": "https://s2.coinmarketcap.com/static/img/issuer/M7sS2GzR_400x400.png",
+        "issuer_id": "6a2d54b697c45356b1a634f4",
+        "num_tokens": 16
+      },
+      {
+        "name": "Bitget Assets",
+        "website": "https://www.bitget.com/",
+        "logo": null,
+        "issuer_id": "68a80be20135f56ec3188cdc",
+        "num_tokens": 0
+      }
+    ],
+    "total_size": 25,
+    "has_more": false
+  }
+}

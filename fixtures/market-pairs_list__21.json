@@ -1,0 +1,97 @@
+{
+ "data": {
+  "rwa_id": 21,
+  "name": "Superstate Short Duration US Government Securities Fund",
+  "symbol": "USTB",
+  "num_market_pairs": 2,
+  "market_pairs": [
+   {
+    "exchange": {
+     "exchange_id": 544,
+     "name": "MEXC",
+     "slug": "mexc"
+    },
+    "market_id": 992100,
+    "market_pair": "USTB/USDT",
+    "category": "spot",
+    "fee_type": "percentage",
+    "market_pair_base": {
+     "crypto_id": 37059,
+     "symbol": "USTB",
+     "exchange_symbol": "USTB",
+     "currency_type": "cryptocurrency"
+    },
+    "market_pair_quotes": {
+     "crypto_id": 825,
+     "symbol": "USDT",
+     "exchange_symbol": "USDT",
+     "currency_type": "cryptocurrency"
+    },
+    "exchange_reported_quotes": {
+     "price": 10.932995127483146,
+     "volume_24h_base": 9558.222498179844,
+     "volume_24h_quote": 104500.00000000001,
+     "last_updated": "2026-11-17T07:05:47.598Z"
+    },
+    "quotes": [
+     {
+      "crypto_id": 2781,
+      "symbol": "USD",
+      "price": 10.932995127483146,
+      "volume_24h": 104500.00000000001,
+      "last_updated": "2026-11-17T07:05:47.598Z"
+     }
+    ]
+   },
+   {
+    "exchange": {
+     "exchange_id": 1348,
+     "name": "Uniswap v3",
+     "slug": "uniswap-v3"
+    },
+    "market_id": 992101,
+    "market_pair": "USTB/USDC",
+    "category": "spot",
+    "fee_type": "percentage",
+    "market_pair_base": {
+     "crypto_id": 37059,
+     "symbol": "USTB",
+     "exchange_symbol": "USTB",
+     "currency_type": "cryptocurrency"
+    },
+    "market_pair_quotes": {
+     "crypto_id": 3408,
+     "symbol": "USDC",
+     "exchange_symbol": "USDC",
+     "currency_type": "cryptocurrency"
+    },
+    "exchange_reported_quotes": {
+     "price": 10.931154442768683,
+     "volume_24h_base": 7821.680724359452,
+     "volume_24h_quote": 85500,
+     "last_updated": "2026-11-17T07:05:47.598Z"
+    },
+    "quotes": [
+     {
+      "crypto_id": 2781,
+      "symbol": "USD",
+      "price": 10.931154442768683,
+      "volume_24h": 85500,
+      "last_updated": "2026-11-17T07:05:47.598Z"
+     }
+    ]
+   }
+  ],
+  "total_size": 2,
+  "has_more": false
+ },
+ "status": {
+  "timestamp": "2026-11-17T07:05:47.598Z",
+  "error_code": 0,
+  "error_message": "",
+  "elapsed": 12,
+  "credit_count": 1,
+  "notice": "DEMO FIXTURE - synthetic data",
+  "total_count": 24
+ }
+}

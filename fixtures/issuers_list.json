@@ -1,0 +1,115 @@
+{
+ "data": {
+  "issuers": [
+   {
+    "name": "Backed Assets",
+    "website": "https://assets.backed.fi/",
+    "logo": null,
+    "issuer_id": "eff43aa2e51a7e116adfdc5a",
+    "num_tokens": 18
+   },
+   {
+    "name": "Ondo Assets",
+    "website": "https://ondo.finance",
+    "logo": null,
+    "issuer_id": "f4cdb3e42131b1f8a7c20ad8",
+    "num_tokens": 18
+   },
+   {
+    "name": "Paxos",
+    "website": "https://paxos.com",
+    "logo": null,
+    "issuer_id": "fdc5aec45aa6306dedb34fa9",
+    "num_tokens": 1
+   },
+   {
+    "name": "Tether Holdings",
+    "website": "https://gold.tether.to",
+    "logo": null,
+    "issuer_id": "2bbe0f8b2c72bd5eefcec9e8",
+    "num_tokens": 1
+   },
+   {
+    "name": "Matrixdock",
+    "website": "https://www.matrixdock.com",
+    "logo": null,
+    "issuer_id": "3c1c7b67b2996bac7c2adf08",
+    "num_tokens": 1
+   },
+   {
+    "name": "Kinesis",
+    "website": "https://kinesis.money",
+    "logo": null,
+    "issuer_id": "5ad0df04864eeb7d561a409b",
+    "num_tokens": 2
+   },
+   {
+    "name": "Comtech Gold",
+    "website": "https://comtechgold.com",
+    "logo": null,
+    "issuer_id": "ebd1d0c14d99d14fb660a661",
+    "num_tokens": 1
+   },
+   {
+    "name": "Dinari",
+    "website": "https://dinari.com",
+    "logo": null,
+    "issuer_id": "d02f5ef754d51ad743cdacb2",
+    "num_tokens": 2
+   },
+   {
+    "name": "bStocks",
+    "website": "https://bstocks.io",
+    "logo": null,
+    "issuer_id": "c3aa6951d6481c0ff834085f",
+    "num_tokens": 1
+   },
+   {
+    "name": "Backpack",
+    "website": "https://backpack.exchange",
+    "logo": "https://s2.coinmarketcap.com/static/img/issuer/M7sS2GzR_400x400.png",
+    "issuer_id": "27d60a61665a6f51e8d66395",
+    "num_tokens": 1
+   },
+   {
+    "name": "Superstate",
+    "website": "https://superstate.co",
+    "logo": null,
+    "issuer_id": "ede96d8b059c05024ba4d334",
+    "num_tokens": 1
+   },
+   {
+    "name": "OpenEden",
+    "website": "https://openeden.com",
+    "logo": null,
+    "issuer_id": "96159d7b82b9b064fb0f3668",
+    "num_tokens": 1
+   },
+   {
+    "name": "RealT",
+    "website": "https://realt.co",
+    "logo": null,
+    "issuer_id": "b2bab7477fd85deb944b9886",
+    "num_tokens": 1
+   },
+   {
+    "name": "Bitget Assets",
+    "website": "https://www.bitget.com/",
+    "logo": null,
+    "issuer_id": "fc113b86d8691f5a2c28a4e7",
+    "num_tokens": 0
+   }
+  ],
+  "total_size": 14,
+  "has_more": false
+ },
+ "status": {
+  "timestamp": "2026-11-17T07:05:47.598Z",
+  "error_code": 0,
+  "error_message": "",
+  "elapsed": 12,
+  "credit_count": 1,
+  "notice": "DEMO FIXTURE - synthetic data",
+  "total_count": 24
+ }
+}

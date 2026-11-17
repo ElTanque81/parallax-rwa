@@ -1,0 +1,93 @@
+{
+  "requested_at": "2026-11-17T08:46:47.094Z",
+  "request": {
+    "endpoint": "/v5/real-world-assets/assets/list",
+    "params": {
+      "sort": "tokenized_market_cap",
+      "sort_dir": "desc",
+      "limit": 25
+    }
+  },
+  "status": {
+    "timestamp": "2026-11-17T08:46:47.001Z",
+    "error_code": "0",
+    "error_message": "",
+    "elapsed": 9,
+    "credit_count": 1
+  },
+  "data_sample": {
+    "total_size": 7942,
+    "has_more": true,
+    "rwa_assets": [
+      {
+        "name": "Gold",
+        "symbol": "GOLD",
+        "slug": "gold",
+        "quotes": [
+          {
+            "symbol": "USD",
+            "crypto_id": 2781,
+            "average_tokenized_price": 3850.3194793354664,
+            "tokenized_market_cap": 4716201494.71837,
+            "tokenized_volume_24h": 215703532.57511643,
+            "last_updated": "2026-11-17T08:46:03.000Z"
+          }
+        ],
+        "rwa_id": 1,
+        "asset_type": "commodity",
+        "rwa_rank": 1,
+        "has_tokens": true,
+        "average_tokenized_price": 3850.3194793354664,
+        "tokenized_market_cap": 4716201494.71837,
+        "tokenized_volume_24h": 215703532.57511643,
+        "last_updated": "2026-11-17T08:46:08.000Z"
+      },
+      {
+        "name": "Nvidia Corp",
+        "symbol": "NVDA",
+        "slug": "nvidia",
+        "quotes": [
+          {
+            "symbol": "USD",
+            "crypto_id": 2781,
+            "average_tokenized_price": 157.49700420975867,
+            "tokenized_market_cap": 371334623.40655035,
+            "tokenized_volume_24h": 314179322.14806527,
+            "last_updated": "2026-11-17T08:46:03.000Z"
+          }
+        ],
+        "rwa_id": 2,
+        "asset_type": "stock",
+        "rwa_rank": 4,
+        "has_tokens": true,
+        "average_tokenized_price": 157.49700420975867,
+        "tokenized_market_cap": 371334623.40655035,
+        "tokenized_volume_24h": 314179322.14806527,
+        "last_updated": "2026-11-17T08:46:10.000Z"
+      },
+      {
+        "name": "SpaceX",
+        "symbol": "SPCX",
+        "slug": "spacex",
+        "quotes": [
+          {
+            "symbol": "USD",
+            "crypto_id": 2781,
+            "average_tokenized_price": 137.27185829912423,
+            "tokenized_market_cap": 327696305.41242296,
+            "tokenized_volume_24h": 144399768.03329888,
+            "last_updated": "2026-11-17T08:46:03.000Z"
+          }
+        ],
+        "rwa_id": 9,
+        "asset_type": "stock",
+        "rwa_rank": 9,
+        "has_tokens": true,
+        "average_tokenized_price": 137.27185829912423,
+        "tokenized_market_cap": 327696305.41242296,
+        "tokenized_volume_24h": 144399768.03329888,
+        "last_updated": "2026-11-17T08:45:46.000Z"
+      }
+    ]
+  }
+}

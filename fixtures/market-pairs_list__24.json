@@ -1,0 +1,97 @@
+{
+ "data": {
+  "rwa_id": 24,
+  "name": "9943 Marlowe St, Detroit",
+  "symbol": "REALT-9943",
+  "num_market_pairs": 2,
+  "market_pairs": [
+   {
+    "exchange": {
+     "exchange_id": 544,
+     "name": "MEXC",
+     "slug": "mexc"
+    },
+    "market_id": 992400,
+    "market_pair": "REALT-9943/USDT",
+    "category": "spot",
+    "fee_type": "percentage",
+    "market_pair_base": {
+     "crypto_id": 37062,
+     "symbol": "REALT-9943",
+     "exchange_symbol": "REALT-9943",
+     "currency_type": "cryptocurrency"
+    },
+    "market_pair_quotes": {
+     "crypto_id": 825,
+     "symbol": "USDT",
+     "exchange_symbol": "USDT",
+     "currency_type": "cryptocurrency"
+    },
+    "exchange_reported_quotes": {
+     "price": 51.71658274684535,
+     "volume_24h_base": 11.69837541203173,
+     "volume_24h_quote": 605,
+     "last_updated": "2026-11-17T07:05:47.598Z"
+    },
+    "quotes": [
+     {
+      "crypto_id": 2781,
+      "symbol": "USD",
+      "price": 51.71658274684535,
+      "volume_24h": 605,
+      "last_updated": "2026-11-17T07:05:47.598Z"
+     }
+    ]
+   },
+   {
+    "exchange": {
+     "exchange_id": 1348,
+     "name": "Uniswap v3",
+     "slug": "uniswap-v3"
+    },
+    "market_id": 992401,
+    "market_pair": "REALT-9943/USDC",
+    "category": "spot",
+    "fee_type": "percentage",
+    "market_pair_base": {
+     "crypto_id": 37062,
+     "symbol": "REALT-9943",
+     "exchange_symbol": "REALT-9943",
+     "currency_type": "cryptocurrency"
+    },
+    "market_pair_quotes": {
+     "crypto_id": 3408,
+     "symbol": "USDC",
+     "exchange_symbol": "USDC",
+     "currency_type": "cryptocurrency"
+    },
+    "exchange_reported_quotes": {
+     "price": 51.53812002001037,
+     "volume_24h_base": 9.604541256215974,
+     "volume_24h_quote": 495,
+     "last_updated": "2026-11-17T07:05:47.598Z"
+    },
+    "quotes": [
+     {
+      "crypto_id": 2781,
+      "symbol": "USD",
+      "price": 51.53812002001037,
+      "volume_24h": 495,
+      "last_updated": "2026-11-17T07:05:47.598Z"
+     }
+    ]
+   }
+  ],
+  "total_size": 2,
+  "has_more": false
+ },
+ "status": {
+  "timestamp": "2026-11-17T07:05:47.598Z",
+  "error_code": 0,
+  "error_message": "",
+  "elapsed": 12,
+  "credit_count": 1,
+  "notice": "DEMO FIXTURE - synthetic data",
+  "total_count": 24
+ }
+}

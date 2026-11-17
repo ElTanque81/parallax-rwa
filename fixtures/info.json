@@ -1,0 +1,519 @@
+{
+ "data": {
+  "rwa_assets": [
+   {
+    "name": "Gold",
+    "symbol": "GOLD",
+    "slug": "gold",
+    "website": null,
+    "employees": null,
+    "founded": null,
+    "industry": null,
+    "cik": null,
+    "about": {
+     "description": "Gold (demo fixture).",
+     "logo": null,
+     "website": null,
+     "date_added": "2025-07-17T06:35:44.000Z"
+    },
+    "rwa_id": 1,
+    "asset_type": "commodity",
+    "rwa_rank": 1,
+    "has_tokens": true,
+    "primary_exchange": null
+   },
+   {
+    "name": "Nvidia Corp",
+    "symbol": "NVDA",
+    "slug": "nvidia",
+    "website": null,
+    "employees": null,
+    "founded": null,
+    "industry": null,
+    "cik": null,
+    "about": {
+     "description": "Nvidia Corp (demo fixture).",
+     "logo": null,
+     "website": null,
+     "date_added": "2025-07-17T06:35:44.000Z"
+    },
+    "rwa_id": 2,
+    "asset_type": "stock",
+    "rwa_rank": 7,
+    "has_tokens": true,
+    "primary_exchange": "Nasdaq"
+   },
+   {
+    "name": "Tesla Inc",
+    "symbol": "TSLA",
+    "slug": "tesla",
+    "website": null,
+    "employees": null,
+    "founded": null,
+    "industry": null,
+    "cik": null,
+    "about": {
+     "description": "Tesla Inc (demo fixture).",
+     "logo": null,
+     "website": null,
+     "date_added": "2025-07-17T06:35:44.000Z"
+    },
+    "rwa_id": 3,
+    "asset_type": "stock",
+    "rwa_rank": 6,
+    "has_tokens": true,
+    "primary_exchange": "Nasdaq"
+   },
+   {
+    "name": "Strategy Inc",
+    "symbol": "MSTR",
+    "slug": "strategy",
+    "website": null,
+    "employees": null,
+    "founded": null,
+    "industry": null,
+    "cik": null,
+    "about": {
+     "description": "Strategy Inc (demo fixture).",
+     "logo": null,
+     "website": null,
+     "date_added": "2025-07-17T06:35:44.000Z"
+    },
+    "rwa_id": 4,
+    "asset_type": "stock",
+    "rwa_rank": 11,
+    "has_tokens": true,
+    "primary_exchange": "Nasdaq"
+   },
+   {
+    "name": "SPDR S&P 500 ETF",
+    "symbol": "SPY",
+    "slug": "spdr-sp-500-etf",
+    "website": null,
+    "employees": null,
+    "founded": null,
+    "industry": null,
+    "cik": null,
+    "about": {
+     "description": "SPDR S&P 500 ETF (demo fixture).",
+     "logo": null,
+     "website": null,
+     "date_added": "2025-07-17T06:35:44.000Z"
+    },
+    "rwa_id": 5,
+    "asset_type": "etf",
+    "rwa_rank": 4,
+    "has_tokens": true,
+    "primary_exchange": null
+   },
+   {
+    "name": "Invesco QQQ Trust",
+    "symbol": "QQQ",
+    "slug": "invesco-qqq",
+    "website": null,
+    "employees": null,
+    "founded": null,
+    "industry": null,
+    "cik": null,
+    "about": {
+     "description": "Invesco QQQ Trust (demo fixture).",
+     "logo": null,
+     "website": null,
+     "date_added": "2025-07-17T06:35:44.000Z"
+    },
+    "rwa_id": 6,
+    "asset_type": "etf",
+    "rwa_rank": 8,
+    "has_tokens": true,
+    "primary_exchange": null
+   },
+   {
+    "name": "Apple Inc",
+    "symbol": "AAPL",
+    "slug": "apple",
+    "website": null,
+    "employees": null,
+    "founded": null,
+    "industry": null,
+    "cik": null,
+    "about": {
+     "description": "Apple Inc (demo fixture).",
+     "logo": null,
+     "website": null,
+     "date_added": "2025-07-17T06:35:44.000Z"
+    },
+    "rwa_id": 7,
+    "asset_type": "stock",
+    "rwa_rank": 9,
+    "has_tokens": true,
+    "primary_exchange": "Nasdaq"
+   },
+   {
+    "name": "Coinbase Global",
+    "symbol": "COIN",
+    "slug": "coinbase",
+    "website": null,
+    "employees": null,
+    "founded": null,
+    "industry": null,
+    "cik": null,
+    "about": {
+     "description": "Coinbase Global (demo fixture).",
+     "logo": null,
+     "website": null,
+     "date_added": "2025-07-17T06:35:44.000Z"
+    },
+    "rwa_id": 8,
+    "asset_type": "stock",
+    "rwa_rank": 13,
+    "has_tokens": true,
+    "primary_exchange": "Nasdaq"
+   },
+   {
+    "name": "Circle Internet Group",
+    "symbol": "CRCL",
+    "slug": "circle",
+    "website": null,
+    "employees": null,
+    "founded": null,
+    "industry": null,
+    "cik": null,
+    "about": {
+     "description": "Circle Internet Group (demo fixture).",
+     "logo": null,
+     "website": null,
+     "date_added": "2025-07-17T06:35:44.000Z"
+    },
+    "rwa_id": 9,
+    "asset_type": "stock",
+    "rwa_rank": 15,
+    "has_tokens": true,
+    "primary_exchange": "Nasdaq"
+   },
+   {
+    "name": "Microsoft Corp",
+    "symbol": "MSFT",
+    "slug": "microsoft",
+    "website": null,
+    "employees": null,
+    "founded": null,
+    "industry": null,
+    "cik": null,
+    "about": {
+     "description": "Microsoft Corp (demo fixture).",
+     "logo": null,
+     "website": null,
+     "date_added": "2025-07-17T06:35:44.000Z"
+    },
+    "rwa_id": 10,
+    "asset_type": "stock",
+    "rwa_rank": 10,
+    "has_tokens": true,
+    "primary_exchange": "Nasdaq"
+   },
+   {
+    "name": "Amazon.com Inc",
+    "symbol": "AMZN",
+    "slug": "amazon",
+    "website": null,
+    "employees": null,
+    "founded": null,
+    "industry": null,
+    "cik": null,
+    "about": {
+     "description": "Amazon.com Inc (demo fixture).",
+     "logo": null,
+     "website": null,
+     "date_added": "2025-07-17T06:35:44.000Z"
+    },
+    "rwa_id": 11,
+    "asset_type": "stock",
+    "rwa_rank": 12,
+    "has_tokens": true,
+    "primary_exchange": "Nasdaq"
+   },
+   {
+    "name": "Alphabet Inc",
+    "symbol": "GOOGL",
+    "slug": "alphabet",
+    "website": null,
+    "employees": null,
+    "founded": null,
+    "industry": null,
+    "cik": null,
+    "about": {
+     "description": "Alphabet Inc (demo fixture).",
+     "logo": null,
+     "website": null,
+     "date_added": "2025-07-17T06:35:44.000Z"
+    },
+    "rwa_id": 12,
+    "asset_type": "stock",
+    "rwa_rank": 14,
+    "has_tokens": true,
+    "primary_exchange": "Nasdaq"
+   },
+   {
+    "name": "Meta Platforms",
+    "symbol": "META",
+    "slug": "meta",
+    "website": null,
+    "employees": null,
+    "founded": null,
+    "industry": null,
+    "cik": null,
+    "about": {
+     "description": "Meta Platforms (demo fixture).",
+     "logo": null,
+     "website": null,
+     "date_added": "2025-07-17T06:35:44.000Z"
+    },
+    "rwa_id": 13,
+    "asset_type": "stock",
+    "rwa_rank": 17,
+    "has_tokens": true,
+    "primary_exchange": "Nasdaq"
+   },
+   {
+    "name": "Palantir Technologies",
+    "symbol": "PLTR",
+    "slug": "palantir",
+    "website": null,
+    "employees": null,
+    "founded": null,
+    "industry": null,
+    "cik": null,
+    "about": {
+     "description": "Palantir Technologies (demo fixture).",
+     "logo": null,
+     "website": null,
+     "date_added": "2025-07-17T06:35:44.000Z"
+    },
+    "rwa_id": 14,
+    "asset_type": "stock",
+    "rwa_rank": 18,
+    "has_tokens": true,
+    "primary_exchange": "Nasdaq"
+   },
+   {
+    "name": "Robinhood Markets",
+    "symbol": "HOOD",
+    "slug": "robinhood",
+    "website": null,
+    "employees": null,
+    "founded": null,
+    "industry": null,
+    "cik": null,
+    "about": {
+     "description": "Robinhood Markets (demo fixture).",
+     "logo": null,
+     "website": null,
+     "date_added": "2025-07-17T06:35:44.000Z"
+    },
+    "rwa_id": 15,
+    "asset_type": "stock",
+    "rwa_rank": 21,
+    "has_tokens": true,
+    "primary_exchange": "Nasdaq"
+   },
+   {
+    "name": "SPDR Gold Shares",
+    "symbol": "GLD",
+    "slug": "spdr-gold-shares",
+    "website": null,
+    "employees": null,
+    "founded": null,
+    "industry": null,
+    "cik": null,
+    "about": {
+     "description": "SPDR Gold Shares (demo fixture).",
+     "logo": null,
+     "website": null,
+     "date_added": "2025-07-17T06:35:44.000Z"
+    },
+    "rwa_id": 16,
+    "asset_type": "etf",
+    "rwa_rank": 16,
+    "has_tokens": true,
+    "primary_exchange": null
+   },
+   {
+    "name": "iShares 20+ Year Treasury Bond ETF",
+    "symbol": "TLT",
+    "slug": "ishares-20-year-treasury",
+    "website": null,
+    "employees": null,
+    "founded": null,
+    "industry": null,
+    "cik": null,
+    "about": {
+     "description": "iShares 20+ Year Treasury Bond ETF (demo fixture).",
+     "logo": null,
+     "website": null,
+     "date_added": "2025-07-17T06:35:44.000Z"
+    },
+    "rwa_id": 17,
+    "asset_type": "etf",
+    "rwa_rank": 20,
+    "has_tokens": true,
+    "primary_exchange": null
+   },
+   {
+    "name": "Advanced Micro Devices",
+    "symbol": "AMD",
+    "slug": "amd",
+    "website": null,
+    "employees": null,
+    "founded": null,
+    "industry": null,
+    "cik": null,
+    "about": {
+     "description": "Advanced Micro Devices (demo fixture).",
+     "logo": null,
+     "website": null,
+     "date_added": "2025-07-17T06:35:44.000Z"
+    },
+    "rwa_id": 18,
+    "asset_type": "stock",
+    "rwa_rank": 19,
+    "has_tokens": true,
+    "primary_exchange": "Nasdaq"
+   },
+   {
+    "name": "Broadcom Inc",
+    "symbol": "AVGO",
+    "slug": "broadcom",
+    "website": null,
+    "employees": null,
+    "founded": null,
+    "industry": null,
+    "cik": null,
+    "about": {
+     "description": "Broadcom Inc (demo fixture).",
+     "logo": null,
+     "website": null,
+     "date_added": "2025-07-17T06:35:44.000Z"
+    },
+    "rwa_id": 19,
+    "asset_type": "stock",
+    "rwa_rank": 22,
+    "has_tokens": true,
+    "primary_exchange": "Nasdaq"
+   },
+   {
+    "name": "Silver",
+    "symbol": "SILVER",
+    "slug": "silver",
+    "website": null,
+    "employees": null,
+    "founded": null,
+    "industry": null,
+    "cik": null,
+    "about": {
+     "description": "Silver (demo fixture).",
+     "logo": null,
+     "website": null,
+     "date_added": "2025-07-17T06:35:44.000Z"
+    },
+    "rwa_id": 20,
+    "asset_type": "commodity",
+    "rwa_rank": 5,
+    "has_tokens": true,
+    "primary_exchange": null
+   },
+   {
+    "name": "Superstate Short Duration US Government Securities Fund",
+    "symbol": "USTB",
+    "slug": "superstate-ustb",
+    "website": null,
+    "employees": null,
+    "founded": null,
+    "industry": null,
+    "cik": null,
+    "about": {
+     "description": "Superstate Short Duration US Government Securities Fund (demo fixture).",
+     "logo": null,
+     "website": null,
+     "date_added": "2025-07-17T06:35:44.000Z"
+    },
+    "rwa_id": 21,
+    "asset_type": "government_security",
+    "rwa_rank": 2,
+    "has_tokens": true,
+    "primary_exchange": null
+   },
+   {
+    "name": "OpenEden TBILL",
+    "symbol": "TBILL",
+    "slug": "openeden-tbill",
+    "website": null,
+    "employees": null,
+    "founded": null,
+    "industry": null,
+    "cik": null,
+    "about": {
+     "description": "OpenEden TBILL (demo fixture).",
+     "logo": null,
+     "website": null,
+     "date_added": "2025-07-17T06:35:44.000Z"
+    },
+    "rwa_id": 22,
+    "asset_type": "government_security",
+    "rwa_rank": 3,
+    "has_tokens": true,
+    "primary_exchange": null
+   },
+   {
+    "name": "SpaceX",
+    "symbol": "SPCX",
+    "slug": "spacex",
+    "website": null,
+    "employees": null,
+    "founded": null,
+    "industry": null,
+    "cik": null,
+    "about": {
+     "description": "SpaceX (demo fixture).",
+     "logo": null,
+     "website": null,
+     "date_added": "2025-07-17T06:35:44.000Z"
+    },
+    "rwa_id": 23,
+    "asset_type": "stock",
+    "rwa_rank": 23,
+    "has_tokens": true,
+    "primary_exchange": "Nasdaq"
+   },
+   {
+    "name": "9943 Marlowe St, Detroit",
+    "symbol": "REALT-9943",
+    "slug": "realt-9943-marlowe",
+    "website": null,
+    "employees": null,
+    "founded": null,
+    "industry": null,
+    "cik": null,
+    "about": {
+     "description": "9943 Marlowe St, Detroit (demo fixture).",
+     "logo": null,
+     "website": null,
+     "date_added": "2025-07-17T06:35:44.000Z"
+    },
+    "rwa_id": 24,
+    "asset_type": "real_estate",
+    "rwa_rank": 24,
+    "has_tokens": true,
+    "primary_exchange": null
+   }
+  ]
+ },
+ "status": {
+  "timestamp": "2026-11-17T07:05:47.598Z",
+  "error_code": 0,
+  "error_message": "",
+  "elapsed": 12,
+  "credit_count": 1,
+  "notice": "DEMO FIXTURE - synthetic data",
+  "total_count": 24
+ }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "parallax-rwa",
+  "version": "1.0.0",
+  "description": "One asset, many tokens. See the spread. RWA issuer spread radar built on the CoinMarketCap Pro API v5 Real-World Asset endpoints.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test/*.test.js",
+    "fixtures": "node scripts/make-fixtures.js",
+    "evidence": "node scripts/evidence.js",
+    "live-check": "node scripts/live-check.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": ["coinmarketcap", "cmc-api", "rwa", "tokenized-stocks", "real-world-assets", "BuildwithCMC"],
+  "author": "ElTanque81",
+  "license": "MIT"
+}

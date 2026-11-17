@@ -1,0 +1,531 @@
+{
+ "at": "2026-11-17T08:45:03.524Z",
+ "summary": {
+  "assets_scanned": 59,
+  "multi_issuer_assets": 45,
+  "tokenized_market_cap": 7872077917.261811,
+  "tokenized_volume_24h": 1591318540.0274901,
+  "median_spread_bps": 43.950431416971824,
+  "widest": "HIMS",
+  "arb_count": 6,
+  "data_quality": {
+   "tokens": 339,
+   "ok": 243,
+   "unit_adjusted": 3,
+   "stale": 24,
+   "derivative": 36,
+   "no_price": 32,
+   "outlier": 1
+  }
+ },
+ "assets": [
+  {
+   "symbol": "GOLD",
+   "type": "commodity",
+   "issuers": 4,
+   "spread_bps": 23.5,
+   "best_twin": "XAUt",
+   "arb": null
+  },
+  {
+   "symbol": "NVDA",
+   "type": "stock",
+   "issuers": 6,
+   "spread_bps": 28.5,
+   "best_twin": "NVDAB",
+   "arb": null
+  },
+  {
+   "symbol": "SPCX",
+   "type": "stock",
+   "issuers": 10,
+   "spread_bps": 142.8,
+   "best_twin": "SPCXB",
+   "arb": {
+    "buy": "SPCX",
+    "buy_issuer": "Robinhood",
+    "sell": "SPCXc",
+    "sell_issuer": "Coinbase",
+    "spread_bps": 142.81202069919834
+   }
+  },
+  {
+   "symbol": "CRCL",
+   "type": "stock",
+   "issuers": 6,
+   "spread_bps": 35.1,
+   "best_twin": "CRCLB",
+   "arb": null
+  },
+  {
+   "symbol": "QQQ",
+   "type": "etf",
+   "issuers": 5,
+   "spread_bps": 44,
+   "best_twin": "QQQB",
+   "arb": null
+  },
+  {
+   "symbol": "MSTR",
+   "type": "stock",
+   "issuers": 6,
+   "spread_bps": 38.8,
+   "best_twin": "MSTRX",
+   "arb": null
+  },
+  {
+   "symbol": "GOOGL",
+   "type": "stock",
+   "issuers": 6,
+   "spread_bps": 29.4,
+   "best_twin": "GOOGLB",
+   "arb": null
+  },
+  {
+   "symbol": "SPY",
+   "type": "etf",
+   "issuers": 5,
+   "spread_bps": 70,
+   "best_twin": "SPY",
+   "arb": null
+  },
+  {
+   "symbol": "MU",
+   "type": "stock",
+   "issuers": 7,
+   "spread_bps": 30.5,
+   "best_twin": "MUB",
+   "arb": null
+  },
+  {
+   "symbol": "TSLA",
+   "type": "stock",
+   "issuers": 6,
+   "spread_bps": 23.1,
+   "best_twin": "TSLAX",
+   "arb": null
+  },
+  {
+   "symbol": "SNDK",
+   "type": "stock",
+   "issuers": 7,
+   "spread_bps": 56.9,
+   "best_twin": "SNDKB",
+   "arb": null
+  },
+  {
+   "symbol": "INTC",
+   "type": "stock",
+   "issuers": 6,
+   "spread_bps": 25.8,
+   "best_twin": "INTCB",
+   "arb": null
+  },
+  {
+   "symbol": "SOXL",
+   "type": "etf",
+   "issuers": 3,
+   "spread_bps": 2.2,
+   "best_twin": "SOXLB",
+   "arb": null
+  },
+  {
+   "symbol": "IVV",
+   "type": "etf",
+   "issuers": 1,
+   "spread_bps": 0,
+   "best_twin": "IVVon",
+   "arb": null
+  },
+  {
+   "symbol": "META",
+   "type": "stock",
+   "issuers": 6,
+   "spread_bps": 30.2,
+   "best_twin": "METAon",
+   "arb": null
+  },
+  {
+   "symbol": "COIN",
+   "type": "stock",
+   "issuers": 5,
+   "spread_bps": 113.5,
+   "best_twin": "COINX",
+   "arb": null
+  },
+  {
+   "symbol": "SKHY",
+   "type": "stock",
+   "issuers": 5,
+   "spread_bps": 23.6,
+   "best_twin": "SKHYB",
+   "arb": null
+  },
+  {
+   "symbol": "AAPL",
+   "type": "stock",
+   "issuers": 6,
+   "spread_bps": 40.6,
+   "best_twin": "AAPLX",
+   "arb": null
+  },
+  {
+   "symbol": "BNC",
+   "type": "stock",
+   "issuers": 1,
+   "spread_bps": 0,
+   "best_twin": "BNCB",
+   "arb": null
+  },
+  {
+   "symbol": "AMZN",
+   "type": "stock",
+   "issuers": 6,
+   "spread_bps": 39.8,
+   "best_twin": "AMZNX",
+   "arb": null
+  },
+  {
+   "symbol": "MRVL",
+   "type": "stock",
+   "issuers": 6,
+   "spread_bps": 32.4,
+   "best_twin": "MRVLB",
+   "arb": null
+  },
+  {
+   "symbol": "AVGO",
+   "type": "stock",
+   "issuers": 6,
+   "spread_bps": 51.6,
+   "best_twin": "AVGOX",
+   "arb": null
+  },
+  {
+   "symbol": "MSFT",
+   "type": "stock",
+   "issuers": 6,
+   "spread_bps": 71.2,
+   "best_twin": "MSFTon",
+   "arb": null
+  },
+  {
+   "symbol": "TQQQ",
+   "type": "etf",
+   "issuers": 3,
+   "spread_bps": 88.4,
+   "best_twin": "TQQQB",
+   "arb": {
+    "buy": "rTQQQ",
+    "buy_issuer": "Reality",
+    "sell": "TQQQon",
+    "sell_issuer": "Ondo Assets",
+    "spread_bps": 88.38414666448857
+   }
+  },
+  {
+   "symbol": "HIMS",
+   "type": "stock",
+   "issuers": 5,
+   "spread_bps": 302.1,
+   "best_twin": "HIMSon",
+   "arb": null
+  },
+  {
+   "symbol": "SLV",
+   "type": "etf",
+   "issuers": 2,
+   "spread_bps": 20.8,
+   "best_twin": "SLVon",
+   "arb": null
+  },
+  {
+   "symbol": "TLT",
+   "type": "etf",
+   "issuers": 1,
+   "spread_bps": 0,
+   "best_twin": "TLTon",
+   "arb": null
+  },
+  {
+   "symbol": "SHLD",
+   "type": "etf",
+   "issuers": 1,
+   "spread_bps": 0,
+   "best_twin": "SHLDx",
+   "arb": null
+  },
+  {
+   "symbol": "KORU",
+   "type": "etf",
+   "issuers": 1,
+   "spread_bps": 0,
+   "best_twin": "KORUB",
+   "arb": null
+  },
+  {
+   "symbol": "TSM",
+   "type": "stock",
+   "issuers": 5,
+   "spread_bps": 129,
+   "best_twin": "TSMB",
+   "arb": {
+    "buy": "TSMB",
+    "buy_issuer": "bStocks",
+    "sell": "TSMon",
+    "sell_issuer": "Ondo Assets",
+    "spread_bps": 129.0357944136184
+   }
+  },
+  {
+   "symbol": "DRAM",
+   "type": "etf",
+   "issuers": 2,
+   "spread_bps": 6.1,
+   "best_twin": "DRAMB",
+   "arb": null
+  },
+  {
+   "symbol": "ORCL",
+   "type": "stock",
+   "issuers": 6,
+   "spread_bps": 150.7,
+   "best_twin": "ORCLc",
+   "arb": null
+  },
+  {
+   "symbol": "IEFA",
+   "type": "etf",
+   "issuers": 1,
+   "spread_bps": 0,
+   "best_twin": "IEFAon",
+   "arb": null
+  },
+  {
+   "symbol": "HOOD",
+   "type": "stock",
+   "issuers": 5,
+   "spread_bps": 219.6,
+   "best_twin": "HOODX",
+   "arb": null
+  },
+  {
+   "symbol": "SQQQ",
+   "type": "etf",
+   "issuers": 4,
+   "spread_bps": 298,
+   "best_twin": "SQQQx",
+   "arb": {
+    "buy": "SQQQB",
+    "buy_issuer": "bStocks",
+    "sell": "SQQQon",
+    "sell_issuer": "Ondo Assets",
+    "spread_bps": 298.04323054194685
+   }
+  },
+  {
+   "symbol": "EWY",
+   "type": "etf",
+   "issuers": 6,
+   "spread_bps": 82.7,
+   "best_twin": "EWYB",
+   "arb": null
+  },
+  {
+   "symbol": "PDD",
+   "type": "stock",
+   "issuers": 3,
+   "spread_bps": 81.7,
+   "best_twin": "PDDon",
+   "arb": null
+  },
+  {
+   "symbol": "AGG",
+   "type": "etf",
+   "issuers": 1,
+   "spread_bps": 0,
+   "best_twin": "AGGon",
+   "arb": null
+  },
+  {
+   "symbol": "BMNR",
+   "type": "stock",
+   "issuers": 3,
+   "spread_bps": 20,
+   "best_twin": "BMNRB",
+   "arb": null
+  },
+  {
+   "symbol": "NBIS",
+   "type": "stock",
+   "issuers": 3,
+   "spread_bps": 203.4,
+   "best_twin": "NBISB",
+   "arb": null
+  },
+  {
+   "symbol": "GLD",
+   "type": "etf",
+   "issuers": 3,
+   "spread_bps": 11.8,
+   "best_twin": "GLDX",
+   "arb": null
+  },
+  {
+   "symbol": "AMD",
+   "type": "stock",
+   "issuers": 7,
+   "spread_bps": 35.3,
+   "best_twin": "AMDB",
+   "arb": null
+  },
+  {
+   "symbol": "ITOT",
+   "type": "etf",
+   "issuers": 0,
+   "spread_bps": 0,
+   "best_twin": null,
+   "arb": null
+  },
+  {
+   "symbol": "GME",
+   "type": "stock",
+   "issuers": 4,
+   "spread_bps": 143,
+   "best_twin": "WGMEX",
+   "arb": {
+    "buy": "GME",
+    "buy_issuer": "Robinhood",
+    "sell": "GMEon",
+    "sell_issuer": "Ondo Assets",
+    "spread_bps": 143.0106628086205
+   }
+  },
+  {
+   "symbol": "SOFI",
+   "type": "stock",
+   "issuers": 3,
+   "spread_bps": 26.2,
+   "best_twin": "SOFIon",
+   "arb": null
+  },
+  {
+   "symbol": "LLY",
+   "type": "stock",
+   "issuers": 6,
+   "spread_bps": 80.8,
+   "best_twin": "LLYon",
+   "arb": {
+    "buy": "LLYB",
+    "buy_issuer": "bStocks",
+    "sell": "LLYon",
+    "sell_issuer": "Ondo Assets",
+    "spread_bps": 80.80764314099655
+   }
+  },
+  {
+   "symbol": "TIP",
+   "type": "etf",
+   "issuers": 0,
+   "spread_bps": 0,
+   "best_twin": null,
+   "arb": null
+  },
+  {
+   "symbol": "EFA",
+   "type": "etf",
+   "issuers": 1,
+   "spread_bps": 0,
+   "best_twin": "EFAon",
+   "arb": null
+  },
+  {
+   "symbol": "PLTR",
+   "type": "stock",
+   "issuers": 6,
+   "spread_bps": 38.2,
+   "best_twin": "PLTRon",
+   "arb": null
+  },
+  {
+   "symbol": "BABA",
+   "type": "stock",
+   "issuers": 4,
+   "spread_bps": 48.9,
+   "best_twin": "BABAB",
+   "arb": null
+  },
+  {
+   "symbol": "SGOV",
+   "type": "etf",
+   "issuers": 2,
+   "spread_bps": 241.8,
+   "best_twin": "SGOVon",
+   "arb": null
+  },
+  {
+   "symbol": "IWF",
+   "type": "etf",
+   "issuers": 0,
+   "spread_bps": 0,
+   "best_twin": null,
+   "arb": null
+  },
+  {
+   "symbol": "ANTHROPIC",
+   "type": "stock",
+   "issuers": 1,
+   "spread_bps": 0,
+   "best_twin": "ANTHROPIC",
+   "arb": null
+  },
+  {
+   "symbol": "SNXX",
+   "type": "etf",
+   "issuers": 1,
+   "spread_bps": 0,
+   "best_twin": "SNXXB",
+   "arb": null
+  },
+  {
+   "symbol": "CBRS",
+   "type": "stock",
+   "issuers": 2,
+   "spread_bps": 10.9,
+   "best_twin": "CBRSB",
+   "arb": null
+  },
+  {
+   "symbol": "LITE",
+   "type": "stock",
+   "issuers": 5,
+   "spread_bps": 117.2,
+   "best_twin": "LITEB",
+   "arb": null
+  },
+  {
+   "symbol": "USO",
+   "type": "etf",
+   "issuers": 2,
+   "spread_bps": 66.8,
+   "best_twin": "USO",
+   "arb": null
+  },
+  {
+   "symbol": "EEM",
+   "type": "etf",
+   "issuers": 1,
+   "spread_bps": 0,
+   "best_twin": "EEMon",
+   "arb": null
+  },
+  {
+   "symbol": "AAOI",
+   "type": "stock",
+   "issuers": 4,
+   "spread_bps": 131.7,
+   "best_twin": "AAOIB",
+   "arb": null
+  }
+ ]
+}

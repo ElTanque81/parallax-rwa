@@ -1,0 +1,28 @@
+{
+ "data": {
+  "name": "Backpack",
+  "website": "https://backpack.exchange",
+  "logo": "https://s2.coinmarketcap.com/static/img/issuer/M7sS2GzR_400x400.png",
+  "tokens": [
+   {
+    "name": "SpaceX tokenized stock (Backpack)",
+    "symbol": "SPCX",
+    "crypto_id": 37061,
+    "rwa_id": 23
+   }
+  ],
+  "issuer_id": "27d60a61665a6f51e8d66395",
+  "num_tokens": 1,
+  "total_size": 1,
+  "has_more": false
+ },
+ "status": {
+  "timestamp": "2026-11-17T07:05:47.598Z",
+  "error_code": 0,
+  "error_message": "",
+  "elapsed": 12,
+  "credit_count": 1,
+  "notice": "DEMO FIXTURE - synthetic data",
+  "total_count": 24
+ }
+}

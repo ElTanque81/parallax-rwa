@@ -1,0 +1,281 @@
+{
+ "data": {
+  "rwa_assets": [
+   {
+    "name": "Gold",
+    "symbol": "GOLD",
+    "slug": "gold",
+    "rwa_id": 1,
+    "asset_type": "commodity",
+    "rwa_rank": 1,
+    "has_tokens": true,
+    "first_historical_data": "2020-01-01T00:00:00.000Z",
+    "last_historical_data": "2026-11-17T07:05:47.598Z"
+   },
+   {
+    "name": "Nvidia Corp",
+    "symbol": "NVDA",
+    "slug": "nvidia",
+    "rwa_id": 2,
+    "asset_type": "stock",
+    "rwa_rank": 7,
+    "has_tokens": true,
+    "first_historical_data": "2020-01-01T00:00:00.000Z",
+    "last_historical_data": "2026-11-17T07:05:47.598Z"
+   },
+   {
+    "name": "Tesla Inc",
+    "symbol": "TSLA",
+    "slug": "tesla",
+    "rwa_id": 3,
+    "asset_type": "stock",
+    "rwa_rank": 6,
+    "has_tokens": true,
+    "first_historical_data": "2020-01-01T00:00:00.000Z",
+    "last_historical_data": "2026-11-17T07:05:47.598Z"
+   },
+   {
+    "name": "Strategy Inc",
+    "symbol": "MSTR",
+    "slug": "strategy",
+    "rwa_id": 4,
+    "asset_type": "stock",
+    "rwa_rank": 11,
+    "has_tokens": true,
+    "first_historical_data": "2020-01-01T00:00:00.000Z",
+    "last_historical_data": "2026-11-17T07:05:47.598Z"
+   },
+   {
+    "name": "SPDR S&P 500 ETF",
+    "symbol": "SPY",
+    "slug": "spdr-sp-500-etf",
+    "rwa_id": 5,
+    "asset_type": "etf",
+    "rwa_rank": 4,
+    "has_tokens": true,
+    "first_historical_data": "2020-01-01T00:00:00.000Z",
+    "last_historical_data": "2026-11-17T07:05:47.598Z"
+   },
+   {
+    "name": "Invesco QQQ Trust",
+    "symbol": "QQQ",
+    "slug": "invesco-qqq",
+    "rwa_id": 6,
+    "asset_type": "etf",
+    "rwa_rank": 8,
+    "has_tokens": true,
+    "first_historical_data": "2020-01-01T00:00:00.000Z",
+    "last_historical_data": "2026-11-17T07:05:47.598Z"
+   },
+   {
+    "name": "Apple Inc",
+    "symbol": "AAPL",
+    "slug": "apple",
+    "rwa_id": 7,
+    "asset_type": "stock",
+    "rwa_rank": 9,
+    "has_tokens": true,
+    "first_historical_data": "2020-01-01T00:00:00.000Z",
+    "last_historical_data": "2026-11-17T07:05:47.598Z"
+   },
+   {
+    "name": "Coinbase Global",
+    "symbol": "COIN",
+    "slug": "coinbase",
+    "rwa_id": 8,
+    "asset_type": "stock",
+    "rwa_rank": 13,
+    "has_tokens": true,
+    "first_historical_data": "2020-01-01T00:00:00.000Z",
+    "last_historical_data": "2026-11-17T07:05:47.598Z"
+   },
+   {
+    "name": "Circle Internet Group",
+    "symbol": "CRCL",
+    "slug": "circle",
+    "rwa_id": 9,
+    "asset_type": "stock",
+    "rwa_rank": 15,
+    "has_tokens": true,
+    "first_historical_data": "2020-01-01T00:00:00.000Z",
+    "last_historical_data": "2026-11-17T07:05:47.598Z"
+   },
+   {
+    "name": "Microsoft Corp",
+    "symbol": "MSFT",
+    "slug": "microsoft",
+    "rwa_id": 10,
+    "asset_type": "stock",
+    "rwa_rank": 10,
+    "has_tokens": true,
+    "first_historical_data": "2020-01-01T00:00:00.000Z",
+    "last_historical_data": "2026-11-17T07:05:47.598Z"
+   },
+   {
+    "name": "Amazon.com Inc",
+    "symbol": "AMZN",
+    "slug": "amazon",
+    "rwa_id": 11,
+    "asset_type": "stock",
+    "rwa_rank": 12,
+    "has_tokens": true,
+    "first_historical_data": "2020-01-01T00:00:00.000Z",
+    "last_historical_data": "2026-11-17T07:05:47.598Z"
+   },
+   {
+    "name": "Alphabet Inc",
+    "symbol": "GOOGL",
+    "slug": "alphabet",
+    "rwa_id": 12,
+    "asset_type": "stock",
+    "rwa_rank": 14,
+    "has_tokens": true,
+    "first_historical_data": "2020-01-01T00:00:00.000Z",
+    "last_historical_data": "2026-11-17T07:05:47.598Z"
+   },
+   {
+    "name": "Meta Platforms",
+    "symbol": "META",
+    "slug": "meta",
+    "rwa_id": 13,
+    "asset_type": "stock",
+    "rwa_rank": 17,
+    "has_tokens": true,
+    "first_historical_data": "2020-01-01T00:00:00.000Z",
+    "last_historical_data": "2026-11-17T07:05:47.598Z"
+   },
+   {
+    "name": "Palantir Technologies",
+    "symbol": "PLTR",
+    "slug": "palantir",
+    "rwa_id": 14,
+    "asset_type": "stock",
+    "rwa_rank": 18,
+    "has_tokens": true,
+    "first_historical_data": "2020-01-01T00:00:00.000Z",
+    "last_historical_data": "2026-11-17T07:05:47.598Z"
+   },
+   {
+    "name": "Robinhood Markets",
+    "symbol": "HOOD",
+    "slug": "robinhood",
+    "rwa_id": 15,
+    "asset_type": "stock",
+    "rwa_rank": 21,
+    "has_tokens": true,
+    "first_historical_data": "2020-01-01T00:00:00.000Z",
+    "last_historical_data": "2026-11-17T07:05:47.598Z"
+   },
+   {
+    "name": "SPDR Gold Shares",
+    "symbol": "GLD",
+    "slug": "spdr-gold-shares",
+    "rwa_id": 16,
+    "asset_type": "etf",
+    "rwa_rank": 16,
+    "has_tokens": true,
+    "first_historical_data": "2020-01-01T00:00:00.000Z",
+    "last_historical_data": "2026-11-17T07:05:47.598Z"
+   },
+   {
+    "name": "iShares 20+ Year Treasury Bond ETF",
+    "symbol": "TLT",
+    "slug": "ishares-20-year-treasury",
+    "rwa_id": 17,
+    "asset_type": "etf",
+    "rwa_rank": 20,
+    "has_tokens": true,
+    "first_historical_data": "2020-01-01T00:00:00.000Z",
+    "last_historical_data": "2026-11-17T07:05:47.598Z"
+   },
+   {
+    "name": "Advanced Micro Devices",
+    "symbol": "AMD",
+    "slug": "amd",
+    "rwa_id": 18,
+    "asset_type": "stock",
+    "rwa_rank": 19,
+    "has_tokens": true,
+    "first_historical_data": "2020-01-01T00:00:00.000Z",
+    "last_historical_data": "2026-11-17T07:05:47.598Z"
+   },
+   {
+    "name": "Broadcom Inc",
+    "symbol": "AVGO",
+    "slug": "broadcom",
+    "rwa_id": 19,
+    "asset_type": "stock",
+    "rwa_rank": 22,
+    "has_tokens": true,
+    "first_historical_data": "2020-01-01T00:00:00.000Z",
+    "last_historical_data": "2026-11-17T07:05:47.598Z"
+   },
+   {
+    "name": "Silver",
+    "symbol": "SILVER",
+    "slug": "silver",
+    "rwa_id": 20,
+    "asset_type": "commodity",
+    "rwa_rank": 5,
+    "has_tokens": true,
+    "first_historical_data": "2020-01-01T00:00:00.000Z",
+    "last_historical_data": "2026-11-17T07:05:47.598Z"
+   },
+   {
+    "name": "Superstate Short Duration US Government Securities Fund",
+    "symbol": "USTB",
+    "slug": "superstate-ustb",
+    "rwa_id": 21,
+    "asset_type": "government_security",
+    "rwa_rank": 2,
+    "has_tokens": true,
+    "first_historical_data": "2020-01-01T00:00:00.000Z",
+    "last_historical_data": "2026-11-17T07:05:47.598Z"
+   },
+   {
+    "name": "OpenEden TBILL",
+    "symbol": "TBILL",
+    "slug": "openeden-tbill",
+    "rwa_id": 22,
+    "asset_type": "government_security",
+    "rwa_rank": 3,
+    "has_tokens": true,
+    "first_historical_data": "2020-01-01T00:00:00.000Z",
+    "last_historical_data": "2026-11-17T07:05:47.598Z"
+   },
+   {
+    "name": "SpaceX",
+    "symbol": "SPCX",
+    "slug": "spacex",
+    "rwa_id": 23,
+    "asset_type": "stock",
+    "rwa_rank": 23,
+    "has_tokens": true,
+    "first_historical_data": "2020-01-01T00:00:00.000Z",
+    "last_historical_data": "2026-11-17T07:05:47.598Z"
+   },
+   {
+    "name": "9943 Marlowe St, Detroit",
+    "symbol": "REALT-9943",
+    "slug": "realt-9943-marlowe",
+    "rwa_id": 24,
+    "asset_type": "real_estate",
+    "rwa_rank": 24,
+    "has_tokens": true,
+    "first_historical_data": "2020-01-01T00:00:00.000Z",
+    "last_historical_data": "2026-11-17T07:05:47.598Z"
+   }
+  ],
+  "total_size": 24,
+  "has_more": false
+ },
+ "status": {
+  "timestamp": "2026-11-17T07:05:47.598Z",
+  "error_code": 0,
+  "error_message": "",
+  "elapsed": 12,
+  "credit_count": 0,
+  "notice": "DEMO FIXTURE - synthetic data",
+  "total_count": 24
+ }
+}

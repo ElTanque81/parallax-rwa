@@ -1,0 +1,97 @@
+{
+ "data": {
+  "rwa_id": 19,
+  "name": "Broadcom Inc",
+  "symbol": "AVGO",
+  "num_market_pairs": 2,
+  "market_pairs": [
+   {
+    "exchange": {
+     "exchange_id": 24,
+     "name": "Kraken",
+     "slug": "kraken"
+    },
+    "market_id": 991900,
+    "market_pair": "AVGOX/USDT",
+    "category": "spot",
+    "fee_type": "percentage",
+    "market_pair_base": {
+     "crypto_id": 37055,
+     "symbol": "AVGOX",
+     "exchange_symbol": "AVGOX",
+     "currency_type": "cryptocurrency"
+    },
+    "market_pair_quotes": {
+     "crypto_id": 825,
+     "symbol": "USDT",
+     "exchange_symbol": "USDT",
+     "currency_type": "cryptocurrency"
+    },
+    "exchange_reported_quotes": {
+     "price": 344.8085938667467,
+     "volume_24h_base": 2073.6142100806105,
+     "volume_24h_quote": 715000,
+     "last_updated": "2026-11-17T07:05:47.598Z"
+    },
+    "quotes": [
+     {
+      "crypto_id": 2781,
+      "symbol": "USD",
+      "price": 344.8085938667467,
+      "volume_24h": 715000,
+      "last_updated": "2026-11-17T07:05:47.598Z"
+     }
+    ]
+   },
+   {
+    "exchange": {
+     "exchange_id": 513,
+     "name": "Bitget",
+     "slug": "bitget"
+    },
+    "market_id": 991901,
+    "market_pair": "AVGOon/USDT",
+    "category": "spot",
+    "fee_type": "percentage",
+    "market_pair_base": {
+     "crypto_id": 37056,
+     "symbol": "AVGOon",
+     "exchange_symbol": "AVGOon",
+     "currency_type": "cryptocurrency"
+    },
+    "market_pair_quotes": {
+     "crypto_id": 825,
+     "symbol": "USDT",
+     "exchange_symbol": "USDT",
+     "currency_type": "cryptocurrency"
+    },
+    "exchange_reported_quotes": {
+     "price": 345.27392237120176,
+     "volume_24h_base": 987.6216473521945,
+     "volume_24h_quote": 341000,
+     "last_updated": "2026-11-17T07:05:47.598Z"
+    },
+    "quotes": [
+     {
+      "crypto_id": 2781,
+      "symbol": "USD",
+      "price": 345.27392237120176,
+      "volume_24h": 341000,
+      "last_updated": "2026-11-17T07:05:47.598Z"
+     }
+    ]
+   }
+  ],
+  "total_size": 2,
+  "has_more": false
+ },
+ "status": {
+  "timestamp": "2026-11-17T07:05:47.598Z",
+  "error_code": 0,
+  "error_message": "",
+  "elapsed": 12,
+  "credit_count": 1,
+  "notice": "DEMO FIXTURE - synthetic data",
+  "total_count": 24
+ }
+}

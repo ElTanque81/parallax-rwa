@@ -1,0 +1,249 @@
+{
+ "data": {
+  "rwa_id": 6,
+  "name": "Invesco QQQ Trust",
+  "symbol": "QQQ",
+  "num_market_pairs": 6,
+  "market_pairs": [
+   {
+    "exchange": {
+     "exchange_id": 24,
+     "name": "Kraken",
+     "slug": "kraken"
+    },
+    "market_id": 990600,
+    "market_pair": "QQQX/USDT",
+    "category": "spot",
+    "fee_type": "percentage",
+    "market_pair_base": {
+     "crypto_id": 37012,
+     "symbol": "QQQX",
+     "exchange_symbol": "QQQX",
+     "currency_type": "cryptocurrency"
+    },
+    "market_pair_quotes": {
+     "crypto_id": 825,
+     "symbol": "USDT",
+     "exchange_symbol": "USDT",
+     "currency_type": "cryptocurrency"
+    },
+    "exchange_reported_quotes": {
+     "price": 609.4338696323123,
+     "volume_24h_base": 4692.879970267347,
+     "volume_24h_quote": 2860000,
+     "last_updated": "2026-11-17T07:05:47.598Z"
+    },
+    "quotes": [
+     {
+      "crypto_id": 2781,
+      "symbol": "USD",
+      "price": 609.4338696323123,
+      "volume_24h": 2860000,
+      "last_updated": "2026-11-17T07:05:47.598Z"
+     }
+    ]
+   },
+   {
+    "exchange": {
+     "exchange_id": 513,
+     "name": "Bitget",
+     "slug": "bitget"
+    },
+    "market_id": 990603,
+    "market_pair": "QQQon/USDT",
+    "category": "spot",
+    "fee_type": "percentage",
+    "market_pair_base": {
+     "crypto_id": 37013,
+     "symbol": "QQQon",
+     "exchange_symbol": "QQQon",
+     "currency_type": "cryptocurrency"
+    },
+    "market_pair_quotes": {
+     "crypto_id": 825,
+     "symbol": "USDT",
+     "exchange_symbol": "USDT",
+     "currency_type": "cryptocurrency"
+    },
+    "exchange_reported_quotes": {
+     "price": 609.767663283763,
+     "volume_24h_base": 2796.146963284534,
+     "volume_24h_quote": 1705000.0000000002,
+     "last_updated": "2026-11-17T07:05:47.598Z"
+    },
+    "quotes": [
+     {
+      "crypto_id": 2781,
+      "symbol": "USD",
+      "price": 609.767663283763,
+      "volume_24h": 1705000.0000000002,
+      "last_updated": "2026-11-17T07:05:47.598Z"
+     }
+    ]
+   },
+   {
+    "exchange": {
+     "exchange_id": 521,
+     "name": "Bybit",
+     "slug": "bybit"
+    },
+    "market_id": 990601,
+    "market_pair": "QQQX/USDT",
+    "category": "spot",
+    "fee_type": "percentage",
+    "market_pair_base": {
+     "crypto_id": 37012,
+     "symbol": "QQQX",
+     "exchange_symbol": "QQQX",
+     "currency_type": "cryptocurrency"
+    },
+    "market_pair_quotes": {
+     "crypto_id": 825,
+     "symbol": "USDT",
+     "exchange_symbol": "USDT",
+     "currency_type": "cryptocurrency"
+    },
+    "exchange_reported_quotes": {
+     "price": 609.3380952707834,
+     "volume_24h_base": 1920.116285327712,
+     "volume_24h_quote": 1170000,
+     "last_updated": "2026-11-17T07:05:47.598Z"
+    },
+    "quotes": [
+     {
+      "crypto_id": 2781,
+      "symbol": "USD",
+      "price": 609.3380952707834,
+      "volume_24h": 1170000,
+      "last_updated": "2026-11-17T07:05:47.598Z"
+     }
+    ]
+   },
+   {
+    "exchange": {
+     "exchange_id": 1342,
+     "name": "Raydium",
+     "slug": "raydium"
+    },
+    "market_id": 990602,
+    "market_pair": "QQQX/USDC",
+    "category": "spot",
+    "fee_type": "percentage",
+    "market_pair_base": {
+     "crypto_id": 37012,
+     "symbol": "QQQX",
+     "exchange_symbol": "QQQX",
+     "currency_type": "cryptocurrency"
+    },
+    "market_pair_quotes": {
+     "crypto_id": 3408,
+     "symbol": "USDC",
+     "exchange_symbol": "USDC",
+     "currency_type": "cryptocurrency"
+    },
+    "exchange_reported_quotes": {
+     "price": 609.5263160484254,
+     "volume_24h_base": 1919.5233564075456,
+     "volume_24h_quote": 1170000,
+     "last_updated": "2026-11-17T07:05:47.598Z"
+    },
+    "quotes": [
+     {
+      "crypto_id": 2781,
+      "symbol": "USD",
+      "price": 609.5263160484254,
+      "volume_24h": 1170000,
+      "last_updated": "2026-11-17T07:05:47.598Z"
+     }
+    ]
+   },
+   {
+    "exchange": {
+     "exchange_id": 302,
+     "name": "Gate",
+     "slug": "gate"
+    },
+    "market_id": 990604,
+    "market_pair": "QQQon/USDT",
+    "category": "spot",
+    "fee_type": "percentage",
+    "market_pair_base": {
+     "crypto_id": 37013,
+     "symbol": "QQQon",
+     "exchange_symbol": "QQQon",
+     "currency_type": "cryptocurrency"
+    },
+    "market_pair_quotes": {
+     "crypto_id": 825,
+     "symbol": "USDT",
+     "exchange_symbol": "USDT",
+     "currency_type": "cryptocurrency"
+    },
+    "exchange_reported_quotes": {
+     "price": 610.4119369218333,
+     "volume_24h_base": 1142.6709698983473,
+     "volume_24h_quote": 697500,
+     "last_updated": "2026-11-17T07:05:47.598Z"
+    },
+    "quotes": [
+     {
+      "crypto_id": 2781,
+      "symbol": "USD",
+      "price": 610.4119369218333,
+      "volume_24h": 697500,
+      "last_updated": "2026-11-17T07:05:47.598Z"
+     }
+    ]
+   },
+   {
+    "exchange": {
+     "exchange_id": 1348,
+     "name": "Uniswap v3",
+     "slug": "uniswap-v3"
+    },
+    "market_id": 990605,
+    "market_pair": "QQQon/USDC",
+    "category": "spot",
+    "fee_type": "percentage",
+    "market_pair_base": {
+     "crypto_id": 37013,
+     "symbol": "QQQon",
+     "exchange_symbol": "QQQon",
+     "currency_type": "cryptocurrency"
+    },
+    "market_pair_quotes": {
+     "crypto_id": 3408,
+     "symbol": "USDC",
+     "exchange_symbol": "USDC",
+     "currency_type": "cryptocurrency"
+    },
+    "exchange_reported_quotes": {
+     "price": 609.9470669035318,
+     "volume_24h_base": 1143.5418544447489,
+     "volume_24h_quote": 697500,
+     "last_updated": "2026-11-17T07:05:47.598Z"
+    },
+    "quotes": [
+     {
+      "crypto_id": 2781,
+      "symbol": "USD",
+      "price": 609.9470669035318,
+      "volume_24h": 697500,
+      "last_updated": "2026-11-17T07:05:47.598Z"
+     }
+    ]
+   }
+  ],
+  "total_size": 6,
+  "has_more": false
+ },
+ "status": {
+  "timestamp": "2026-11-17T07:05:47.598Z",
+  "error_code": 0,
+  "error_message": "",
+  "elapsed": 12,
+  "credit_count": 1,
+  "notice": "DEMO FIXTURE - synthetic data",
+  "total_count": 24
+ }
+}

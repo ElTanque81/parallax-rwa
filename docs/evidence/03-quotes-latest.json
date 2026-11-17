@@ -1,0 +1,208 @@
+{
+  "requested_at": "2026-11-17T08:46:47.426Z",
+  "request": {
+    "endpoint": "/v5/real-world-assets/quotes/latest",
+    "params": {
+      "rwa_id": "1,2,9,115,118,114,4,86,12,14,48,20,7750,141,10,82,8065,3,3066,6,70,13,7,211"
+    }
+  },
+  "status": {
+    "timestamp": "2026-11-17T08:46:47.349Z",
+    "error_code": "0",
+    "error_message": "",
+    "elapsed": 6,
+    "credit_count": 1
+  },
+  "data_sample": {
+    "rwa_assets": [
+      {
+        "name": "Gold",
+        "symbol": "GOLD",
+        "slug": "gold",
+        "quotes": [
+          {
+            "symbol": "USD",
+            "crypto_id": 2781,
+            "average_tokenized_price": 3850.3194793354664,
+            "tokenized_market_cap": 4716201494.71837,
+            "tokenized_volume_24h": 215703532.57511643,
+            "last_updated": "2026-11-17T08:46:03.000Z"
+          }
+        ],
+        "rwa_id": 1,
+        "asset_type": "commodity",
+        "rwa_rank": 1,
+        "has_tokens": true,
+        "average_tokenized_price": 3850.3194793354664,
+        "tokenized_market_cap": 4716201494.71837,
+        "tokenized_volume_24h": 215703532.57511643,
+        "last_updated": "2026-11-17T08:46:08.246Z",
+        "tokens": [
+          {
+            "symbol": "PAXG",
+            "name": "PAX Gold",
+            "price": 3857.1337252336134,
+            "crypto_id": 4705,
+            "issuer_id": "68904c24abae9b5b9fb35815",
+            "issuer_name": "Paxos",
+            "market_cap": 1726191459.5409033,
+            "volume_24h": 66626875.910384156
+          },
+          {
+            "symbol": "XAUt",
+            "name": "Tether Gold",
+            "price": 3853.6578477292614,
+            "crypto_id": 5176,
+            "issuer_id": "68904e9cabae9b5b9fb358ac",
+            "issuer_name": "Tether Holdings",
+            "market_cap": 2888022000.7319784,
+            "volume_24h": 148473251.82712767
+          },
+          {
+            "symbol": "XAUM",
+            "name": "Matrixdock Gold",
+            "price": 3860.4035912998966,
+            "crypto_id": 34212,
+            "issuer_id": "68905a7babae9b5b9fb35a8d",
+            "issuer_name": "Matrixdock",
+            "market_cap": 67016272.75869402,
+            "volume_24h": 457380.4359260364
+          }
+        ],
+        "tradfi_markets": []
+      },
+      {
+        "name": "Nvidia Corp",
+        "symbol": "NVDA",
+        "slug": "nvidia",
+        "quotes": [
+          {
+            "symbol": "USD",
+            "crypto_id": 2781,
+            "average_tokenized_price": 157.49700420975867,
+            "tokenized_market_cap": 371334623.40655035,
+            "tokenized_volume_24h": 314179322.14806527,
+            "last_updated": "2026-11-17T08:46:03.000Z"
+          }
+        ],
+        "rwa_id": 2,
+        "asset_type": "stock",
+        "rwa_rank": 4,
+        "has_tokens": true,
+        "average_tokenized_price": 157.49700420975867,
+        "tokenized_market_cap": 371334623.40655035,
+        "tokenized_volume_24h": 314179322.14806527,
+        "last_updated": "2026-11-17T08:46:10.791Z",
+        "tokens": [
+          {
+            "symbol": "NVDAX",
+            "name": "NVIDIA tokenized stock (xStock)",
+            "price": 157.48426888654365,
+            "crypto_id": 36992,
+            "issuer_id": "6878977dcbbf471de3366e85",
+            "issuer_name": "Backed Assets",
+            "market_cap": 104104519.42896947,
+            "volume_24h": 70314009.22777098
+          },
+          {
+            "symbol": "NVDA.D",
+            "name": "NVIDIA tokenized stock (Dinari)",
+            "price": null,
+            "crypto_id": 28616,
+            "issuer_id": "688c6172abae9b5b9fb30359",
+            "issuer_name": "Dinari Assets",
+            "market_cap": null,
+            "volume_24h": null
+          },
+          {
+            "symbol": "NVDAon",
+            "name": "NVIDIA Tokenized Stock (Ondo)",
+            "price": 157.72322012837046,
+            "crypto_id": 38093,
+            "issuer_id": "688ca4ccabae9b5b9fb3167a",
+            "issuer_name": "Ondo Assets",
+            "market_cap": 29626677.799809314,
+            "volume_24h": 6230660.490635702
+          }
+        ],
+        "tradfi_markets": [
+          {
+            "exchange": {
+              "slug": "binance",
+              "name": "Binance",
+              "exchange_id": 270
+            },
+            "ticker": "NVDA",
+            "market_url": "https://www.binance.com/en/stocks/EQ_NVDA"
+          }
+        ]
+      },
+      {
+        "name": "SpaceX",
+        "symbol": "SPCX",
+        "slug": "spacex",
+        "quotes": [
+          {
+            "symbol": "USD",
+            "crypto_id": 2781,
+            "average_tokenized_price": 137.27185829912423,
+            "tokenized_market_cap": 327696305.41242296,
+            "tokenized_volume_24h": 144399768.03329888,
+            "last_updated": "2026-11-17T08:46:03.000Z"
+          }
+        ],
+        "rwa_id": 9,
+        "asset_type": "stock",
+        "rwa_rank": 9,
+        "has_tokens": true,
+        "average_tokenized_price": 137.27185829912423,
+        "tokenized_market_cap": 327696305.41242296,
+        "tokenized_volume_24h": 144399768.03329888,
+        "last_updated": "2026-11-17T08:45:46.600Z",
+        "tokens": [
+          {
+            "symbol": "SPACEX",
+            "name": "SpaceX tokenized stock (PreStocks)",
+            "price": 550.650774869944,
+            "crypto_id": 37656,
+            "issuer_id": "689612983f270c6ff4781b96",
+            "issuer_name": "PreStocks Assets",
+            "market_cap": 4034296.9572107256,
+            "volume_24h": 21282.440088113544
+          },
+          {
+            "symbol": "SPCX",
+            "name": "SpaceX (Derivatives)",
+            "price": 137.4411907433348,
+            "crypto_id": 39501,
+            "issuer_id": "695e11f774b54210f3b95dc3",
+            "issuer_name": "NA (Derivatives)",
+            "market_cap": 0,
+            "volume_24h": 0
+          },
+          {
+            "symbol": "tSpaceX",
+            "name": "T-SpaceX tokenized stock (Tessera)",
+            "price": 545.7035103669672,
+            "crypto_id": 40018,
+            "issuer_id": "6a0be4e680ee5978ec4455ce",
+            "issuer_name": "Tessera Assets",
+            "market_cap": 648841.473826324,
+            "volume_24h": 522252.963925275
+          }
+        ],
+        "tradfi_markets": [
+          {
+            "exchange": {
+              "slug": "binance",
+              "name": "Binance",
+              "exchange_id": 270
+            },
+            "ticker": "SPCX",
+            "market_url": "https://www.binance.com/en/stocks/EQ_SPCX"
+          }
+        ]
+      }
+    ]
+  }
+}

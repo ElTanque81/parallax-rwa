@@ -1,0 +1,97 @@
+{
+ "data": {
+  "rwa_id": 23,
+  "name": "SpaceX",
+  "symbol": "SPCX",
+  "num_market_pairs": 2,
+  "market_pairs": [
+   {
+    "exchange": {
+     "exchange_id": 544,
+     "name": "MEXC",
+     "slug": "mexc"
+    },
+    "market_id": 992300,
+    "market_pair": "SPCX/USDT",
+    "category": "spot",
+    "fee_type": "percentage",
+    "market_pair_base": {
+     "crypto_id": 37061,
+     "symbol": "SPCX",
+     "exchange_symbol": "SPCX",
+     "currency_type": "cryptocurrency"
+    },
+    "market_pair_quotes": {
+     "crypto_id": 825,
+     "symbol": "USDT",
+     "exchange_symbol": "USDT",
+     "currency_type": "cryptocurrency"
+    },
+    "exchange_reported_quotes": {
+     "price": 211.90457467844524,
+     "volume_24h_base": 1012.2480853728298,
+     "volume_24h_quote": 214500.00000000003,
+     "last_updated": "2026-11-17T07:05:47.598Z"
+    },
+    "quotes": [
+     {
+      "crypto_id": 2781,
+      "symbol": "USD",
+      "price": 211.90457467844524,
+      "volume_24h": 214500.00000000003,
+      "last_updated": "2026-11-17T07:05:47.598Z"
+     }
+    ]
+   },
+   {
+    "exchange": {
+     "exchange_id": 1348,
+     "name": "Uniswap v3",
+     "slug": "uniswap-v3"
+    },
+    "market_id": 992301,
+    "market_pair": "SPCX/USDC",
+    "category": "spot",
+    "fee_type": "percentage",
+    "market_pair_base": {
+     "crypto_id": 37061,
+     "symbol": "SPCX",
+     "exchange_symbol": "SPCX",
+     "currency_type": "cryptocurrency"
+    },
+    "market_pair_quotes": {
+     "crypto_id": 3408,
+     "symbol": "USDC",
+     "exchange_symbol": "USDC",
+     "currency_type": "cryptocurrency"
+    },
+    "exchange_reported_quotes": {
+     "price": 212.00890944775412,
+     "volume_24h_base": 827.7954000006255,
+     "volume_24h_quote": 175500,
+     "last_updated": "2026-11-17T07:05:47.598Z"
+    },
+    "quotes": [
+     {
+      "crypto_id": 2781,
+      "symbol": "USD",
+      "price": 212.00890944775412,
+      "volume_24h": 175500,
+      "last_updated": "2026-11-17T07:05:47.598Z"
+     }
+    ]
+   }
+  ],
+  "total_size": 2,
+  "has_more": false
+ },
+ "status": {
+  "timestamp": "2026-11-17T07:05:47.598Z",
+  "error_code": 0,
+  "error_message": "",
+  "elapsed": 12,
+  "credit_count": 1,
+  "notice": "DEMO FIXTURE - synthetic data",
+  "total_count": 24
+ }
+}

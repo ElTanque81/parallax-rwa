@@ -1,0 +1,130 @@
+{
+ "data": {
+  "name": "Ondo Assets",
+  "website": "https://ondo.finance",
+  "logo": null,
+  "tokens": [
+   {
+    "name": "NVIDIA Tokenized Stock (Ondo)",
+    "symbol": "NVDAon",
+    "crypto_id": 36996,
+    "rwa_id": 2
+   },
+   {
+    "name": "Tesla Tokenized Stock (Ondo)",
+    "symbol": "TSLAon",
+    "crypto_id": 36999,
+    "rwa_id": 3
+   },
+   {
+    "name": "Strategy Tokenized Stock (Ondo)",
+    "symbol": "MSTRon",
+    "crypto_id": 37002,
+    "rwa_id": 4
+   },
+   {
+    "name": "SPDR S&P 500 ETF Tokenized Stock (Ondo)",
+    "symbol": "SPYon",
+    "crypto_id": 37004,
+    "rwa_id": 5
+   },
+   {
+    "name": "Invesco QQQ Tokenized Stock (Ondo)",
+    "symbol": "QQQon",
+    "crypto_id": 37006,
+    "rwa_id": 6
+   },
+   {
+    "name": "Apple Tokenized Stock (Ondo)",
+    "symbol": "AAPLon",
+    "crypto_id": 37008,
+    "rwa_id": 7
+   },
+   {
+    "name": "Coinbase Tokenized Stock (Ondo)",
+    "symbol": "COINon",
+    "crypto_id": 37010,
+    "rwa_id": 8
+   },
+   {
+    "name": "Circle Tokenized Stock (Ondo)",
+    "symbol": "CRCLon",
+    "crypto_id": 37013,
+    "rwa_id": 9
+   },
+   {
+    "name": "Microsoft Tokenized Stock (Ondo)",
+    "symbol": "MSFTon",
+    "crypto_id": 37015,
+    "rwa_id": 10
+   },
+   {
+    "name": "Amazon Tokenized Stock (Ondo)",
+    "symbol": "AMZNon",
+    "crypto_id": 37017,
+    "rwa_id": 11
+   },
+   {
+    "name": "Alphabet Tokenized Stock (Ondo)",
+    "symbol": "GOOGLon",
+    "crypto_id": 37019,
+    "rwa_id": 12
+   },
+   {
+    "name": "Meta Tokenized Stock (Ondo)",
+    "symbol": "METAon",
+    "crypto_id": 37021,
+    "rwa_id": 13
+   },
+   {
+    "name": "Palantir Tokenized Stock (Ondo)",
+    "symbol": "PLTRon",
+    "crypto_id": 37023,
+    "rwa_id": 14
+   },
+   {
+    "name": "Robinhood Tokenized Stock (Ondo)",
+    "symbol": "HOODon",
+    "crypto_id": 37025,
+    "rwa_id": 15
+   },
+   {
+    "name": "SPDR Gold Shares Tokenized Stock (Ondo)",
+    "symbol": "GLDon",
+    "crypto_id": 37027,
+    "rwa_id": 16
+   },
+   {
+    "name": "iShares 20+ Year Treasury Tokenized Stock (Ondo)",
+    "symbol": "TLTon",
+    "crypto_id": 37029,
+    "rwa_id": 17
+   },
+   {
+    "name": "AMD Tokenized Stock (Ondo)",
+    "symbol": "AMDon",
+    "crypto_id": 37031,
+    "rwa_id": 18
+   },
+   {
+    "name": "Broadcom Tokenized Stock (Ondo)",
+    "symbol": "AVGOon",
+    "crypto_id": 37033,
+    "rwa_id": 19
+   }
+  ],
+  "issuer_id": "36605a39deb250703b07d244",
+  "num_tokens": 18,
+  "total_size": 18,
+  "has_more": false
+ },
+ "status": {
+  "timestamp": "2026-11-16T22:31:48.794Z",
+  "error_code": 0,
+  "error_message": "",
+  "elapsed": 12,
+  "credit_count": 1,
+  "notice": "DEMO FIXTURE - synthetic data",
+  "total_count": 24
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "data": {
+  "name": "Kinesis",
+  "website": "https://kinesis.money",
+  "logo": null,
+  "tokens": [
+   {
+    "name": "Kinesis Gold",
+    "symbol": "KAU",
+    "crypto_id": 36993,
+    "rwa_id": 1
+   },
+   {
+    "name": "Kinesis Silver",
+    "symbol": "KAG",
+    "crypto_id": 37058,
+    "rwa_id": 20
+   }
+  ],
+  "issuer_id": "5ad0df04864eeb7d561a409b",
+  "num_tokens": 2,
+  "total_size": 2,
+  "has_more": false
+ },
+ "status": {
+  "timestamp": "2026-11-17T07:05:47.598Z",
+  "error_code": 0,
+  "error_message": "",
+  "elapsed": 12,
+  "credit_count": 1,
+  "notice": "DEMO FIXTURE - synthetic data",
+  "total_count": 24
+ }
+}

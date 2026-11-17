@@ -1,0 +1,35 @@
+== node: v24.18.0
+== npm run evidence
+npm notice run parallax-rwa@1.0.0 evidence
+npm notice run node scripts/evidence.js
+OK   /v5/real-world-assets/map  credits=0  elapsed=1ms
+OK   /v5/real-world-assets/assets/list  credits=1  elapsed=11ms
+OK   /v5/real-world-assets/quotes/latest  credits=1  elapsed=7ms
+OK   /v5/real-world-assets/info  credits=1  elapsed=14ms
+FAIL 05-market-pairs: CMC /v5/real-world-assets/market-pairs/list failed: Your API Key subscription plan doesn't support this endpoint.
+OK   /v5/real-world-assets/issuers/list  credits=1  elapsed=3ms
+OK   /v5/real-world-assets/issuers  credits=1  elapsed=4ms
+
+Total credits used: 5. Evidence written to docs/evidence/
+== live check
+market-pairs: CMC /v5/real-world-assets/market-pairs/list failed: Your API Key subscription plan doesn't support this endpoint.
+radar: {
+  assets_scanned: 59,
+  multi_issuer_assets: 45,
+  tokenized_market_cap: 7872077917.261811,
+  tokenized_volume_24h: 1591318540.0274901,
+  median_spread_bps: 43.950431416971824,
+  widest: 'HIMS',
+  arb_count: 6,
+  data_quality: {
+    tokens: 339,
+    ok: 243,
+    unit_adjusted: 3,
+    stale: 24,
+    derivative: 36,
+    no_price: 32,
+    outlier: 1
+  }
+}
+mode live | calls 29 | credits 27
+== DONE

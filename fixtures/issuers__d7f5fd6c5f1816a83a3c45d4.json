@@ -1,0 +1,28 @@
+{
+ "data": {
+  "name": "Tether Holdings",
+  "website": "https://gold.tether.to",
+  "logo": null,
+  "tokens": [
+   {
+    "name": "Tether Gold",
+    "symbol": "XAUt",
+    "crypto_id": 36991,
+    "rwa_id": 1
+   }
+  ],
+  "issuer_id": "d7f5fd6c5f1816a83a3c45d4",
+  "num_tokens": 1,
+  "total_size": 1,
+  "has_more": false
+ },
+ "status": {
+  "timestamp": "2026-11-16T22:31:48.794Z",
+  "error_code": 0,
+  "error_message": "",
+  "elapsed": 12,
+  "credit_count": 1,
+  "notice": "DEMO FIXTURE - synthetic data",
+  "total_count": 24
+ }
+}

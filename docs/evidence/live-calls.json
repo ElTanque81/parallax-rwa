@@ -1,0 +1,465 @@
+[
+ {
+  "at": "2026-11-17T08:45:03.523Z",
+  "mode": "live",
+  "method": "GET",
+  "endpoint": "/v5/real-world-assets/market-pairs/list",
+  "params": {
+   "rwa_id": 1,
+   "limit": 250
+  },
+  "http_status": 403,
+  "error_code": "1006",
+  "error_message": "Your API Key subscription plan doesn't support this endpoint.",
+  "credit_count": 0,
+  "elapsed_ms": 0,
+  "response_preview": "{\"status\":{\"timestamp\":\"2026-11-17T08:45:03.458Z\",\"error_code\":\"1006\",\"error_message\":\"Your API Key subscription plan doesn't support this endpoint.\",\"elapsed\":0,\"credit_count\":0}}"
+ },
+ {
+  "at": "2026-11-17T08:45:03.388Z",
+  "mode": "live",
+  "method": "GET",
+  "endpoint": "/v5/real-world-assets/issuers",
+  "params": {
+   "issuer_id": "68e27862d4cd001228754d31",
+   "limit": 250
+  },
+  "http_status": 200,
+  "error_code": "0",
+  "error_message": "",
+  "credit_count": 1,
+  "elapsed_ms": 3,
+  "response_preview": "{\"data\":{\"name\":\"XAGx\",\"website\":\"https://xagx.org/\",\"logo\":\"https://s2.coinmarketcap.com/static/img/issuer/bwdPlk2V_400x400.png\",\"tokens\":[{\"name\":\"Silver Token\",\"symbol\":\"XAGX\",\"crypto_id\":32149,\"rwa_id\":5}],\"issuer_id\":\"68e27862d4cd001228754d31\",\"num_tokens\":1,\"total_size\":1,\"has_more\":false},\"status\":{\"timestamp\":\"2026-11-17T08:45:03.329Z\",\"error_code\":\"0\",\"error_message\":\"\",\"elapsed\":3,\"credi"
+ },
+ {
+  "at": "2026-11-17T08:45:03.255Z",
+  "mode": "live",
+  "method": "GET",
+  "endpoint": "/v5/real-world-assets/issuers",
+  "params": {
+   "issuer_id": "68905b43abae9b5b9fb35a95",
+   "limit": 250
+  },
+  "http_status": 200,
+  "error_code": "0",
+  "error_message": "",
+  "credit_count": 1,
+  "elapsed_ms": 3,
+  "response_preview": "{\"data\":{\"name\":\"VNX\",\"website\":\"https://vnx.li/\",\"logo\":\"https://s2.coinmarketcap.com/static/img/issuer/vnx.png\",\"tokens\":[{\"name\":\"VNX Gold\",\"symbol\":\"VNXAU\",\"crypto_id\":22492,\"rwa_id\":1}],\"issuer_id\":\"68905b43abae9b5b9fb35a95\",\"num_tokens\":1,\"total_size\":1,\"has_more\":false},\"status\":{\"timestamp\":\"2026-11-17T08:45:03.193Z\",\"error_code\":\"0\",\"error_message\":\"\",\"elapsed\":3,\"credit_count\":1}}"
+ },
+ {
+  "at": "2026-11-17T08:45:03.121Z",
+  "mode": "live",
+  "method": "GET",
+  "endpoint": "/v5/real-world-assets/issuers",
+  "params": {
+   "issuer_id": "68e27c8ad4cd001228754d67",
+   "limit": 250
+  },
+  "http_status": 200,
+  "error_code": "0",
+  "error_message": "",
+  "credit_count": 1,
+  "elapsed_ms": 3,
+  "response_preview": "{\"data\":{\"name\":\"Token\",\"website\":\"https://www.token.com.tr/\",\"logo\":\"https://s2.coinmarketcap.com/static/img/issuer/hoGtBUTO_400x400.png\",\"tokens\":[{\"name\":\"Silver (Grams)\",\"symbol\":\"GRAMS\",\"crypto_id\":37080,\"rwa_id\":5}],\"issuer_id\":\"68e27c8ad4cd001228754d67\",\"num_tokens\":1,\"total_size\":1,\"has_more\":false},\"status\":{\"timestamp\":\"2026-11-17T08:45:03.058Z\",\"error_code\":\"0\",\"error_message\":\"\",\"elaps"
+ },
+ {
+  "at": "2026-11-17T08:45:02.989Z",
+  "mode": "live",
+  "method": "GET",
+  "endpoint": "/v5/real-world-assets/issuers",
+  "params": {
+   "issuer_id": "68904e9cabae9b5b9fb358ac",
+   "limit": 250
+  },
+  "http_status": 200,
+  "error_code": "0",
+  "error_message": "",
+  "credit_count": 1,
+  "elapsed_ms": 3,
+  "response_preview": "{\"data\":{\"name\":\"Tether Holdings\",\"website\":\"https://tether.to/\",\"logo\":\"https://s2.coinmarketcap.com/static/img/issuer/tether.png\",\"tokens\":[{\"name\":\"Tether Gold\",\"symbol\":\"XAUt\",\"crypto_id\":5176,\"rwa_id\":1},{\"name\":\"Tether Gold Tokens\",\"symbol\":\"XAUT0\",\"crypto_id\":37082,\"rwa_id\":1}],\"issuer_id\":\"68904e9cabae9b5b9fb358ac\",\"num_tokens\":2,\"total_size\":2,\"has_more\":false},\"status\":{\"timestamp\":\"2026"
+ },
+ {
+  "at": "2026-11-17T08:45:02.855Z",
+  "mode": "live",
+  "method": "GET",
+  "endpoint": "/v5/real-world-assets/issuers",
+  "params": {
+   "issuer_id": "6a0be4e680ee5978ec4455ce",
+   "limit": 250
+  },
+  "http_status": 200,
+  "error_code": "0",
+  "error_message": "",
+  "credit_count": 1,
+  "elapsed_ms": 3,
+  "response_preview": "{\"data\":{\"name\":\"Tessera Assets\",\"website\":\"https://www.tessera.pe/\",\"logo\":\"https://s2.coinmarketcap.com/static/img/issuer/tessera.png\",\"tokens\":[{\"name\":\"T-SpaceX tokenized stock (Tessera)\",\"symbol\":\"tSpaceX\",\"crypto_id\":40018,\"rwa_id\":9}],\"issuer_id\":\"6a0be4e680ee5978ec4455ce\",\"num_tokens\":1,\"total_size\":1,\"has_more\":false},\"status\":{\"timestamp\":\"2026-11-17T08:45:02.795Z\",\"error_code\":\"0\",\"erro"
+ },
+ {
+  "at": "2026-11-17T08:45:02.708Z",
+  "mode": "live",
+  "method": "GET",
+  "endpoint": "/v5/real-world-assets/issuers",
+  "params": {
+   "issuer_id": "68b902a8f972b459c80de6a5",
+   "limit": 250
+  },
+  "http_status": 200,
+  "error_code": "0",
+  "error_message": "",
+  "credit_count": 1,
+  "elapsed_ms": 2,
+  "response_preview": "{\"data\":{\"name\":\"Superstate Assets\",\"website\":\"https://superstate.com/\",\"logo\":\"https://s2.coinmarketcap.com/static/img/issuer/Adobe_Express___file.png\",\"tokens\":[{\"name\":\"Galaxy Digital Inc. Class A Common Tokenized Stock (Superstate)\",\"symbol\":\"GLXY\",\"crypto_id\":38284,\"rwa_id\":212}],\"issuer_id\":\"68b902a8f972b459c80de6a5\",\"num_tokens\":1,\"total_size\":1,\"has_more\":false},\"status\":{\"timestamp\":\"2026"
+ },
+ {
+  "at": "2026-11-17T08:45:02.582Z",
+  "mode": "live",
+  "method": "GET",
+  "endpoint": "/v5/real-world-assets/issuers",
+  "params": {
+   "issuer_id": "6a465832fbe3004b1a0ea2dd",
+   "limit": 250
+  },
+  "http_status": 200,
+  "error_code": "0",
+  "error_message": "",
+  "credit_count": 1,
+  "elapsed_ms": 2,
+  "response_preview": "{\"data\":{\"name\":\"Robinhood\",\"website\":\"https://robinhood.com/us/en/\",\"tokens\":[{\"name\":\"SpaceX Tokenized Stock (Robinhood)\",\"symbol\":\"SPCX\",\"crypto_id\":37068,\"rwa_id\":9},{\"name\":\"NVIDIA Tokenized Stock (Robinhood)\",\"symbol\":\"NVDA\",\"crypto_id\":40685,\"rwa_id\":2},{\"name\":\"Invesco QQQ Tokenized ETF (Robinhood)\",\"symbol\":\"QQQ\",\"crypto_id\":40686,\"rwa_id\":118},{\"name\":\"AMD Tokenized Stock (Robinhood)\",\"s"
+ },
+ {
+  "at": "2026-11-17T08:45:02.272Z",
+  "mode": "live",
+  "method": "GET",
+  "endpoint": "/v5/real-world-assets/issuers",
+  "params": {
+   "issuer_id": "6a436076282e7240b76c8bf9",
+   "limit": 250
+  },
+  "http_status": 200,
+  "error_code": "0",
+  "error_message": "",
+  "credit_count": 1,
+  "elapsed_ms": 2,
+  "response_preview": "{\"data\":{\"name\":\"Republic\",\"website\":\"https://republic.com/\",\"logo\":\"https://s2.coinmarketcap.com/static/img/issuer/for2i2.png\",\"tokens\":[{\"name\":\"SpaceX \\nPre-IPO stock (Republic)\",\"symbol\":\"preSPCX\",\"crypto_id\":40643,\"rwa_id\":9},{\"name\":\"OpenAI\\nPre-IPO stock (Republic)\",\"symbol\":\"preOPAI\",\"crypto_id\":40659,\"rwa_id\":null}],\"issuer_id\":\"6a436076282e7240b76c8bf9\",\"num_tokens\":2,\"total_size\":2,\"has"
+ },
+ {
+  "at": "2026-11-17T08:45:01.878Z",
+  "mode": "live",
+  "method": "GET",
+  "endpoint": "/v5/real-world-assets/issuers",
+  "params": {
+   "issuer_id": "6a43600c282e7240b76c8bbb",
+   "limit": 250
+  },
+  "http_status": 200,
+  "error_code": "0",
+  "error_message": "",
+  "credit_count": 1,
+  "elapsed_ms": 3,
+  "response_preview": "{\"data\":{\"name\":\"Reality\",\"tokens\":[{\"name\":\"Apple Tokenized Stock (Reality)\",\"symbol\":\"rAAPL\",\"crypto_id\":40598,\"rwa_id\":3},{\"name\":\"Super Micro Tokenized Stock (Reality)\",\"symbol\":\"rSMCI\",\"crypto_id\":40599,\"rwa_id\":127},{\"name\":\"Direxion Semiconductor Bull 3X Tokenized Stock (Reality)\",\"symbol\":\"rSOXL\",\"crypto_id\":40600,\"rwa_id\":7750},{\"name\":\"AMD Tokenized Stock (Reality)\",\"symbol\":\"rAMD\",\"cryp"
+ },
+ {
+  "at": "2026-11-17T08:45:01.554Z",
+  "mode": "live",
+  "method": "GET",
+  "endpoint": "/v5/real-world-assets/issuers",
+  "params": {
+   "issuer_id": "689612983f270c6ff4781b96",
+   "limit": 250
+  },
+  "http_status": 200,
+  "error_code": "0",
+  "error_message": "",
+  "credit_count": 1,
+  "elapsed_ms": 3,
+  "response_preview": "{\"data\":{\"name\":\"PreStocks Assets\",\"website\":\"https://prestocks.com/\",\"tokens\":[{\"name\":\"SpaceX tokenized stock (PreStocks)\",\"symbol\":\"SPACEX\",\"crypto_id\":37656,\"rwa_id\":9},{\"name\":\"OpenAI tokenized stock (PreStocks)\",\"symbol\":\"OPENAI\",\"crypto_id\":37671,\"rwa_id\":250},{\"crypto_id\":37679,\"rwa_id\":null},{\"crypto_id\":37680,\"rwa_id\":null},{\"name\":\"xAI tokenized stock (PreStocks)\",\"symbol\":\"XAI\",\"crypto"
+ },
+ {
+  "at": "2026-11-17T08:45:01.351Z",
+  "mode": "live",
+  "method": "GET",
+  "endpoint": "/v5/real-world-assets/issuers",
+  "params": {
+   "issuer_id": "68904c24abae9b5b9fb35815",
+   "limit": 250
+  },
+  "http_status": 200,
+  "error_code": "0",
+  "error_message": "",
+  "credit_count": 1,
+  "elapsed_ms": 4,
+  "response_preview": "{\"data\":{\"name\":\"Paxos\",\"website\":\"https://www.paxos.com/\",\"tokens\":[{\"name\":\"PAX Gold\",\"symbol\":\"PAXG\",\"crypto_id\":4705,\"rwa_id\":1}],\"issuer_id\":\"68904c24abae9b5b9fb35815\",\"num_tokens\":1,\"total_size\":1,\"has_more\":false},\"status\":{\"timestamp\":\"2026-11-17T08:45:01.210Z\",\"error_code\":\"0\",\"error_message\":\"\",\"elapsed\":4,\"credit_count\":1}}"
+ },
+ {
+  "at": "2026-11-17T08:45:00.913Z",
+  "mode": "live",
+  "method": "GET",
+  "endpoint": "/v5/real-world-assets/issuers",
+  "params": {
+   "issuer_id": "688ca4ccabae9b5b9fb3167a",
+   "limit": 250
+  },
+  "http_status": 200,
+  "error_code": "0",
+  "error_message": "",
+  "credit_count": 1,
+  "elapsed_ms": 27,
+  "response_preview": "{\"data\":{\"name\":\"Ondo Assets\",\"website\":\"https://ondo.finance/\",\"tokens\":[{\"name\":\"Super Micro Computer Tokenized Stock (Ondo)\",\"symbol\":\"SMCIon\",\"crypto_id\":37996,\"rwa_id\":127},{\"name\":\"GameStop Tokenized Stock (Ondo)\",\"symbol\":\"GMEon\",\"crypto_id\":37997,\"rwa_id\":116},{\"name\":\"iShares Russell 2000 Value Tokenized ETF (Ondo)\",\"symbol\":\"IWNon\",\"crypto_id\":37998,\"rwa_id\":119},{\"name\":\"Petrobras Token"
+ },
+ {
+  "at": "2026-11-17T08:45:00.574Z",
+  "mode": "live",
+  "method": "GET",
+  "endpoint": "/v5/real-world-assets/issuers",
+  "params": {
+   "issuer_id": "695e11f774b54210f3b95dc3",
+   "limit": 250
+  },
+  "http_status": 200,
+  "error_code": "0",
+  "error_message": "",
+  "credit_count": 1,
+  "elapsed_ms": 4,
+  "response_preview": "{\"data\":{\"name\":\"NA (Derivatives)\",\"tokens\":[{\"name\":\"Tesla (Derivatives)\",\"symbol\":\"TSLA\",\"crypto_id\":38152,\"rwa_id\":14},{\"name\":\"NVIDIA (Derivatives)\",\"symbol\":\"NVDA\",\"crypto_id\":38153,\"rwa_id\":2},{\"name\":\"Circle Internet Group (Derivatives)\",\"symbol\":\"CRCL\",\"crypto_id\":38154,\"rwa_id\":115},{\"crypto_id\":39318,\"rwa_id\":5},{\"name\":\"Silver (Derivatives)\",\"symbol\":\"XAG\",\"crypto_id\":39343,\"rwa_id\":5},"
+ },
+ {
+  "at": "2026-11-17T08:45:00.438Z",
+  "mode": "live",
+  "method": "GET",
+  "endpoint": "/v5/real-world-assets/issuers",
+  "params": {
+   "issuer_id": "68905a7babae9b5b9fb35a8d",
+   "limit": 250
+  },
+  "http_status": 200,
+  "error_code": "0",
+  "error_message": "",
+  "credit_count": 1,
+  "elapsed_ms": 5,
+  "response_preview": "{\"data\":{\"name\":\"Matrixdock\",\"website\":\"https://www.matrixdock.com/\",\"logo\":\"https://s2.coinmarketcap.com/static/img/issuer/matrixdock.png\",\"tokens\":[{\"name\":\"Matrixdock Gold\",\"symbol\":\"XAUM\",\"crypto_id\":34212,\"rwa_id\":1}],\"issuer_id\":\"68905a7babae9b5b9fb35a8d\",\"num_tokens\":1,\"total_size\":1,\"has_more\":false},\"status\":{\"timestamp\":\"2026-11-17T08:45:00.373Z\",\"error_code\":\"0\",\"error_message\":\"\",\"elap"
+ },
+ {
+  "at": "2026-11-17T08:45:00.259Z",
+  "mode": "live",
+  "method": "GET",
+  "endpoint": "/v5/real-world-assets/issuers",
+  "params": {
+   "issuer_id": "68e25e8dd4cd001228754c7c",
+   "limit": 250
+  },
+  "http_status": 200,
+  "error_code": "0",
+  "error_message": "",
+  "credit_count": 1,
+  "elapsed_ms": 2,
+  "response_preview": "{\"data\":{\"name\":\"Kinesis Assets\",\"website\":\"https://kinesis.money/\",\"logo\":\"https://s2.coinmarketcap.com/static/img/issuer/3LFB_Kit_400x400.png\",\"tokens\":[{\"name\":\"Kinesis Silver\",\"symbol\":\"KAG\",\"crypto_id\":24439,\"rwa_id\":5}],\"issuer_id\":\"68e25e8dd4cd001228754c7c\",\"num_tokens\":1,\"total_size\":1,\"has_more\":false},\"status\":{\"timestamp\":\"2026-11-17T08:45:00.197Z\",\"error_code\":\"0\",\"error_message\":\"\",\"e"
+ },
+ {
+  "at": "2026-11-17T08:45:00.129Z",
+  "mode": "live",
+  "method": "GET",
+  "endpoint": "/v5/real-world-assets/issuers",
+  "params": {
+   "issuer_id": "699ed38db54c9320b15928e3",
+   "limit": 250
+  },
+  "http_status": 200,
+  "error_code": "0",
+  "error_message": "",
+  "credit_count": 1,
+  "elapsed_ms": 6,
+  "response_preview": "{\"data\":{\"name\":\"Hyperliquid Assets\",\"website\":\"https://app.hyperliquid.xyz/trade\",\"logo\":\"https://s2.coinmarketcap.com/static/img/issuer/hyperliquid.png\",\"tokens\":[{\"name\":\"Meta Platforms Tokenized Stock (Hyperliquid)\",\"symbol\":\"META\",\"crypto_id\":39615,\"rwa_id\":10},{\"name\":\"Microsoft Tokenized Stock (Hyperliquid)\",\"symbol\":\"MSFT\",\"crypto_id\":39616,\"rwa_id\":7},{\"name\":\"SPDR Gold Shares Tokenized E"
+ },
+ {
+  "at": "2026-11-17T08:44:59.993Z",
+  "mode": "live",
+  "method": "GET",
+  "endpoint": "/v5/real-world-assets/issuers",
+  "params": {
+   "issuer_id": "68c117369d7eab1d58ebd51d",
+   "limit": 250
+  },
+  "http_status": 200,
+  "error_code": "0",
+  "error_message": "",
+  "credit_count": 1,
+  "elapsed_ms": 2,
+  "response_preview": "{\"data\":{\"name\":\"Fidelity Investments Assets\",\"website\":\"https://www.fidelity.com/\",\"logo\":\"https://s2.coinmarketcap.com/static/img/issuer/32.png\",\"tokens\":[{\"name\":\"Fidelity Digital Interest Tokenized Treasury Bills (Fidelity)\",\"symbol\":\"FDIT\",\"crypto_id\":38340,\"rwa_id\":null}],\"issuer_id\":\"68c117369d7eab1d58ebd51d\",\"num_tokens\":1,\"total_size\":1,\"has_more\":false},\"status\":{\"timestamp\":\"2026-11-17T"
+ },
+ {
+  "at": "2026-11-17T08:44:59.826Z",
+  "mode": "live",
+  "method": "GET",
+  "endpoint": "/v5/real-world-assets/issuers",
+  "params": {
+   "issuer_id": "688c6172abae9b5b9fb30359",
+   "limit": 250
+  },
+  "http_status": 200,
+  "error_code": "0",
+  "error_message": "",
+  "credit_count": 1,
+  "elapsed_ms": 3,
+  "response_preview": "{\"data\":{\"name\":\"Dinari Assets\",\"website\":\"https://dinari.com/\",\"logo\":\"https://s2.coinmarketcap.com/static/img/issuer/5a59aaed_253f_4771_8e52_4ecc50ef127c_medium.jpg\",\"tokens\":[{\"name\":\"NVIDIA tokenized stock (Dinari)\",\"symbol\":\"NVDA.D\",\"crypto_id\":28616,\"rwa_id\":2},{\"name\":\"Netflix tokenized stock (Dinari)\",\"symbol\":\"NFLX.D\",\"crypto_id\":28617,\"rwa_id\":37},{\"name\":\"MSFT tokenized stock (Dinari)\","
+ },
+ {
+  "at": "2026-11-17T08:44:59.693Z",
+  "mode": "live",
+  "method": "GET",
+  "endpoint": "/v5/real-world-assets/issuers",
+  "params": {
+   "issuer_id": "68904cceabae9b5b9fb35839",
+   "limit": 250
+  },
+  "http_status": 200,
+  "error_code": "0",
+  "error_message": "",
+  "credit_count": 1,
+  "elapsed_ms": 3,
+  "response_preview": "{\"data\":{\"name\":\"Comtech Gold\",\"website\":\"https://www.comtechgold.com/\",\"logo\":\"https://s2.coinmarketcap.com/static/img/issuer/comtech.png\",\"tokens\":[{\"name\":\"Comtech Gold\",\"symbol\":\"CGO\",\"crypto_id\":20245,\"rwa_id\":1}],\"issuer_id\":\"68904cceabae9b5b9fb35839\",\"num_tokens\":1,\"total_size\":1,\"has_more\":false},\"status\":{\"timestamp\":\"2026-11-17T08:44:59.633Z\",\"error_code\":\"0\",\"error_message\":\"\",\"elapsed\""
+ },
+ {
+  "at": "2026-11-17T08:44:59.563Z",
+  "mode": "live",
+  "method": "GET",
+  "endpoint": "/v5/real-world-assets/issuers",
+  "params": {
+   "issuer_id": "6a72fe7072996604d45c6733",
+   "limit": 250
+  },
+  "http_status": 200,
+  "error_code": "0",
+  "error_message": "",
+  "credit_count": 1,
+  "elapsed_ms": 3,
+  "response_preview": "{\"data\":{\"name\":\"Coinbase\",\"website\":\"https://www.coinbase.com/en-sg/tokenize\",\"logo\":\"https://s2.coinmarketcap.com/static/img/issuer/m_UOfXvz_400x400.png\",\"tokens\":[{\"name\":\"Marvell Technology, Inc. Tokenized Stock (Coinbase)\",\"symbol\":\"MRVLc\",\"crypto_id\":42419,\"rwa_id\":70},{\"name\":\"PayPal Holdings, Inc. Tokenized Stock (Coinbase)\",\"symbol\":\"PYPLc\",\"crypto_id\":42420,\"rwa_id\":93},{\"name\":\"Alphabet"
+ },
+ {
+  "at": "2026-11-17T08:44:59.424Z",
+  "mode": "live",
+  "method": "GET",
+  "endpoint": "/v5/real-world-assets/issuers",
+  "params": {
+   "issuer_id": "6a2aed5097c45356b1a5f710",
+   "limit": 250
+  },
+  "http_status": 200,
+  "error_code": "0",
+  "error_message": "",
+  "credit_count": 1,
+  "elapsed_ms": 3,
+  "response_preview": "{\"data\":{\"name\":\"bStocks\",\"logo\":\"https://s2.coinmarketcap.com/static/img/issuer/Untitled_design__2_.png\",\"tokens\":[{\"name\":\"Micron Technology Tokenized bStocks\",\"symbol\":\"MUB\",\"crypto_id\":40212,\"rwa_id\":12},{\"name\":\"Circle Internet Group Tokenized bStocks\",\"symbol\":\"CRCLB\",\"crypto_id\":40213,\"rwa_id\":115},{\"name\":\"Tesla Tokenized bStocks\",\"symbol\":\"TSLAB\",\"crypto_id\":40214,\"rwa_id\":14},{\"name\":\"NV"
+ },
+ {
+  "at": "2026-11-17T08:44:59.291Z",
+  "mode": "live",
+  "method": "GET",
+  "endpoint": "/v5/real-world-assets/issuers",
+  "params": {
+   "issuer_id": "6a2d54b697c45356b1a634f4",
+   "limit": 250
+  },
+  "http_status": 200,
+  "error_code": "0",
+  "error_message": "",
+  "credit_count": 1,
+  "elapsed_ms": 4,
+  "response_preview": "{\"data\":{\"name\":\"Backpack\",\"website\":\"https://backpack.exchange\",\"logo\":\"https://s2.coinmarketcap.com/static/img/issuer/M7sS2GzR_400x400.png\",\"tokens\":[{\"name\":\"SpaceX tokenized stock (Backpack)\",\"symbol\":\"SPCX\",\"crypto_id\":40238,\"rwa_id\":9},{\"name\":\"SanDisk Corp tokenized stock (Backpack)\",\"symbol\":\"SNDK\",\"crypto_id\":40815,\"rwa_id\":48},{\"name\":\"RoboStrategy Inc tokenized stock (Backpack)\",\"symbol"
+ },
+ {
+  "at": "2026-11-17T08:44:59.159Z",
+  "mode": "live",
+  "method": "GET",
+  "endpoint": "/v5/real-world-assets/issuers",
+  "params": {
+   "issuer_id": "6878977dcbbf471de3366e85",
+   "limit": 250
+  },
+  "http_status": 200,
+  "error_code": "0",
+  "error_message": "",
+  "credit_count": 1,
+  "elapsed_ms": 4,
+  "response_preview": "{\"data\":{\"name\":\"Backed Assets\",\"website\":\"https://assets.backed.fi/\",\"tokens\":[{\"name\":\"Coinbase tokenized stock (xStock)\",\"symbol\":\"COINX\",\"crypto_id\":36989,\"rwa_id\":82},{\"name\":\"NVIDIA tokenized stock (xStock)\",\"symbol\":\"NVDAX\",\"crypto_id\":36992,\"rwa_id\":2},{\"name\":\"Apple tokenized stock (xStock)\",\"symbol\":\"AAPLX\",\"crypto_id\":36994,\"rwa_id\":3},{\"name\":\"MicroStrategy tokenized stock (xStock)\",\"s"
+ },
+ {
+  "at": "2026-11-17T08:44:59.026Z",
+  "mode": "live",
+  "method": "GET",
+  "endpoint": "/v5/real-world-assets/issuers/list",
+  "params": {
+   "limit": 250
+  },
+  "http_status": 200,
+  "error_code": "0",
+  "error_message": "",
+  "credit_count": 1,
+  "elapsed_ms": 4,
+  "response_preview": "{\"data\":{\"issuers\":[{\"name\":\"Backed Assets\",\"website\":\"https://assets.backed.fi/\",\"logo\":null,\"issuer_id\":\"6878977dcbbf471de3366e85\",\"num_tokens\":1210},{\"name\":\"Backpack\",\"website\":\"https://backpack.exchange\",\"logo\":\"https://s2.coinmarketcap.com/static/img/issuer/M7sS2GzR_400x400.png\",\"issuer_id\":\"6a2d54b697c45356b1a634f4\",\"num_tokens\":16},{\"name\":\"Bitget Assets\",\"website\":\"https://www.bitget.com/"
+ },
+ {
+  "at": "2026-11-17T08:44:58.896Z",
+  "mode": "live",
+  "method": "GET",
+  "endpoint": "/v5/real-world-assets/map",
+  "params": {
+   "limit": 250,
+   "sort": "rwa_rank"
+  },
+  "http_status": 200,
+  "error_code": "0",
+  "error_message": "",
+  "credit_count": 0,
+  "elapsed_ms": 16,
+  "response_preview": "{\"data\":{\"rwa_assets\":[{\"name\":\"Gold\",\"symbol\":\"GOLD\",\"slug\":\"gold\",\"rwa_id\":1,\"asset_type\":\"commodity\",\"rwa_rank\":1,\"has_tokens\":true,\"first_historical_data\":\"2009-09-27T00:00:00.000Z\",\"last_historical_data\":\"2026-11-17T08:40:00.000Z\"},{\"name\":\"Apple Inc.\",\"symbol\":\"AAPL\",\"slug\":\"apple\",\"rwa_id\":3,\"asset_type\":\"stock\",\"rwa_rank\":2,\"has_tokens\":true,\"first_historical_data\":\"2003-09-07T04:00:00.000"
+ },
+ {
+  "at": "2026-11-17T08:44:58.487Z",
+  "mode": "live",
+  "method": "GET",
+  "endpoint": "/v5/real-world-assets/info",
+  "params": {
+   "rwa_id": "1,2,9,115,118,114,4,86,12,14,48,20,7750,141,10,82,8065,3,3066,6,70,13,7,211,125,205,204,7712,5289,8,4789,24,95,84,181,1062,175,96,219,254,87,25,89,116,243,11,120,94,53,63,242,131,187,5699,251,189,183,124,191",
+   "skip_invalid": "true"
+  },
+  "http_status": 200,
+  "error_code": "0",
+  "error_message": "",
+  "credit_count": 1,
+  "elapsed_ms": 4,
+  "response_preview": "{\"data\":{\"rwa_assets\":[{\"name\":\"Gold\",\"symbol\":\"GOLD\",\"slug\":\"gold\",\"website\":null,\"employees\":null,\"founded\":null,\"industry\":null,\"cik\":null,\"about\":{\"description\":\"### What is gold, and why is it considered a safe-haven asset?\\n\\nWhen markets turn volatile, many investors shift to assets they perceive as stable. Gold tops that list.\\n\\nGold is a physical commodity and monetary metal that has ser"
+ },
+ {
+  "at": "2026-11-17T08:44:58.172Z",
+  "mode": "live",
+  "method": "GET",
+  "endpoint": "/v5/real-world-assets/quotes/latest",
+  "params": {
+   "rwa_id": "1,2,9,115,118,114,4,86,12,14,48,20,7750,141,10,82,8065,3,3066,6,70,13,7,211,125,205,204,7712,5289,8,4789,24,95,84,181,1062,175,96,219,254,87,25,89,116,243,11,120,94,53,63,242,131,187,5699,251,189,183,124,191"
+  },
+  "http_status": 200,
+  "error_code": "0",
+  "error_message": "",
+  "credit_count": 1,
+  "elapsed_ms": 13,
+  "response_preview": "{\"data\":{\"rwa_assets\":[{\"name\":\"Gold\",\"symbol\":\"GOLD\",\"slug\":\"gold\",\"quotes\":[{\"symbol\":\"USD\",\"crypto_id\":2781,\"average_tokenized_price\":3850.1403340861193,\"tokenized_market_cap\":4715984043.596907,\"tokenized_volume_24h\":215547472.77334145,\"last_updated\":\"2026-11-17T08:44:03.000Z\"}],\"rwa_id\":1,\"asset_type\":\"commodity\",\"rwa_rank\":1,\"has_tokens\":true,\"average_tokenized_price\":3850.1403340861193,\"toke"
+ },
+ {
+  "at": "2026-11-17T08:44:58.001Z",
+  "mode": "live",
+  "method": "GET",
+  "endpoint": "/v5/real-world-assets/assets/list",
+  "params": {
+   "sort": "tokenized_market_cap",
+   "sort_dir": "desc",
+   "limit": 60
+  },
+  "http_status": 200,
+  "error_code": "0",
+  "error_message": "",
+  "credit_count": 1,
+  "elapsed_ms": 12,
+  "response_preview": "{\"data\":{\"total_size\":7942,\"has_more\":true,\"rwa_assets\":[{\"name\":\"Gold\",\"symbol\":\"GOLD\",\"slug\":\"gold\",\"quotes\":[{\"symbol\":\"USD\",\"crypto_id\":2781,\"average_tokenized_price\":3850.1403340861193,\"tokenized_market_cap\":4715984043.596907,\"tokenized_volume_24h\":215547472.77334145,\"last_updated\":\"2026-11-17T08:44:03.000Z\"}],\"rwa_id\":1,\"asset_type\":\"commodity\",\"rwa_rank\":1,\"has_tokens\":true,\"average_tokeniz"
+ }
+]

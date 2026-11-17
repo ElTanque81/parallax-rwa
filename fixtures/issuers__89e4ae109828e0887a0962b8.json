@@ -1,0 +1,28 @@
+{
+ "data": {
+  "name": "Paxos",
+  "website": "https://paxos.com",
+  "logo": null,
+  "tokens": [
+   {
+    "name": "PAX Gold",
+    "symbol": "PAXG",
+    "crypto_id": 36990,
+    "rwa_id": 1
+   }
+  ],
+  "issuer_id": "89e4ae109828e0887a0962b8",
+  "num_tokens": 1,
+  "total_size": 1,
+  "has_more": false
+ },
+ "status": {
+  "timestamp": "2026-11-16T22:31:48.794Z",
+  "error_code": 0,
+  "error_message": "",
+  "elapsed": 12,
+  "credit_count": 1,
+  "notice": "DEMO FIXTURE - synthetic data",
+  "total_count": 24
+ }
+}

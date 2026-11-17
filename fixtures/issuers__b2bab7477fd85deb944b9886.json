@@ -1,0 +1,28 @@
+{
+ "data": {
+  "name": "RealT",
+  "website": "https://realt.co",
+  "logo": null,
+  "tokens": [
+   {
+    "name": "RealToken 9943 Marlowe St",
+    "symbol": "REALT-9943",
+    "crypto_id": 37062,
+    "rwa_id": 24
+   }
+  ],
+  "issuer_id": "b2bab7477fd85deb944b9886",
+  "num_tokens": 1,
+  "total_size": 1,
+  "has_more": false
+ },
+ "status": {
+  "timestamp": "2026-11-17T07:05:47.598Z",
+  "error_code": 0,
+  "error_message": "",
+  "elapsed": 12,
+  "credit_count": 1,
+  "notice": "DEMO FIXTURE - synthetic data",
+  "total_count": 24
+ }
+}
